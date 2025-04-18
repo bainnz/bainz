@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>bainz library</title>
-    <link href="https://github.com/bainnz/bainz/feed.xml" rel="self" />
-    <link href="https://github.com/bainnz/bainz" />
+    <link href="https://bainnz.github.io/bainz/feed.xml" rel="self" />
+    <link href="https://bainnz.github.io/bainz" />
     <updated>2025-01-08T09:19:06-07:00</updated>
     <author>
         <name>bainz</name>
     </author>
-    <id>https://github.com/bainnz/bainz</id>
+    <id>https://bainnz.github.io/bainz</id>
 
     <entry>
         <title>Persona 3 Reload Party Member Builds</title>
         <author>
             <name>bainz</name>
         </author>
-        <link href="https://github.com/bainnz/bainz/persona-3-reload-party-member-builds/"/>
-        <id>https://github.com/bainnz/bainz/persona-3-reload-party-member-builds/</id>
-        <media:content url="https://github.com/bainnz/bainz/media/posts/1/P3R-Key-Art.jpg" medium="image" />
+        <link href="https://bainnz.github.io/bainz/persona-3-reload-party-member-builds/"/>
+        <id>https://bainnz.github.io/bainz/persona-3-reload-party-member-builds/</id>
+        <media:content url="https://bainnz.github.io/bainz/media/posts/1/P3R-Key-Art.jpg" medium="image" />
             <category term="Persona 3 Reload"/>
 
         <updated>2025-01-08T09:18:00-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/bainnz/bainz/media/posts/1/P3R-Key-Art.jpg" alt="" />
+                        <img src="https://bainnz.github.io/bainz/media/posts/1/P3R-Key-Art.jpg" alt="" />
                     As I’ve done for P5 and P4, I wanted to make a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/bainnz/bainz/media/posts/1/P3R-Key-Art.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://bainnz.github.io/bainz/media/posts/1/P3R-Key-Art.jpg" class="type:primaryImage" alt="" /></p>
                 <section class="section section--body">
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
@@ -114,21 +114,21 @@
         <author>
             <name>bainz</name>
         </author>
-        <link href="https://github.com/bainnz/bainz/demi-fiend-boss-battle-guide-shin-megami-tensei-v/"/>
-        <id>https://github.com/bainnz/bainz/demi-fiend-boss-battle-guide-shin-megami-tensei-v/</id>
-        <media:content url="https://github.com/bainnz/bainz/media/posts/13/sg-smt-v-dlc-return-of-the-true-demon.png" medium="image" />
+        <link href="https://bainnz.github.io/bainz/demi-fiend-boss-battle-guide-shin-megami-tensei-v/"/>
+        <id>https://bainnz.github.io/bainz/demi-fiend-boss-battle-guide-shin-megami-tensei-v/</id>
+        <media:content url="https://bainnz.github.io/bainz/media/posts/13/sg-smt-v-dlc-return-of-the-true-demon.png" medium="image" />
             <category term="Shin Megami Tensei V"/>
 
         <updated>2025-01-08T09:17:55-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/bainnz/bainz/media/posts/13/sg-smt-v-dlc-return-of-the-true-demon.png" alt="" />
+                        <img src="https://bainnz.github.io/bainz/media/posts/13/sg-smt-v-dlc-return-of-the-true-demon.png" alt="" />
                     [This article was written for base SMT V. SMT V Vengeance update&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/bainnz/bainz/media/posts/13/sg-smt-v-dlc-return-of-the-true-demon.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://bainnz.github.io/bainz/media/posts/13/sg-smt-v-dlc-return-of-the-true-demon.png" class="type:primaryImage" alt="" /></p>
                 <section class="section section--body">
 <div class="section-divider"><em class="markup--em markup--p-em" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">[This article was written for base SMT V. SMT V Vengeance update coming soon™]</em></div>
 <div class="section-content">
@@ -213,21 +213,21 @@
         <author>
             <name>bainz</name>
         </author>
-        <link href="https://github.com/bainnz/bainz/nahobino-best-build-and-guide-or-smt-v/"/>
-        <id>https://github.com/bainnz/bainz/nahobino-best-build-and-guide-or-smt-v/</id>
-        <media:content url="https://github.com/bainnz/bainz/media/posts/12/1_i3_sbEZu0iJhXCqlhsLA6g.webp" medium="image" />
+        <link href="https://bainnz.github.io/bainz/nahobino-best-build-and-guide-or-smt-v/"/>
+        <id>https://bainnz.github.io/bainz/nahobino-best-build-and-guide-or-smt-v/</id>
+        <media:content url="https://bainnz.github.io/bainz/media/posts/12/1_i3_sbEZu0iJhXCqlhsLA6g.webp" medium="image" />
             <category term="Shin Megami Tensei V"/>
 
         <updated>2025-01-08T09:13:08-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/bainnz/bainz/media/posts/12/1_i3_sbEZu0iJhXCqlhsLA6g.webp" alt="" />
+                        <img src="https://bainnz.github.io/bainz/media/posts/12/1_i3_sbEZu0iJhXCqlhsLA6g.webp" alt="" />
                     [This article was written for base SMT V. SMT V Vengeance update&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/bainnz/bainz/media/posts/12/1_i3_sbEZu0iJhXCqlhsLA6g.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://bainnz.github.io/bainz/media/posts/12/1_i3_sbEZu0iJhXCqlhsLA6g.webp" class="type:primaryImage" alt="" /></p>
                 <section class="section section--body">
 <div class="section-divider"><em class="markup--em markup--p-em" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">[This article was written for base SMT V. SMT V Vengeance update coming soon™]</em></div>
 <div class="section-content">
@@ -331,21 +331,21 @@
         <author>
             <name>bainz</name>
         </author>
-        <link href="https://github.com/bainnz/bainz/smt-v-best-demons-and-builds/"/>
-        <id>https://github.com/bainnz/bainz/smt-v-best-demons-and-builds/</id>
-        <media:content url="https://github.com/bainnz/bainz/media/posts/11/gqnpxcztwo571.png" medium="image" />
+        <link href="https://bainnz.github.io/bainz/smt-v-best-demons-and-builds/"/>
+        <id>https://bainnz.github.io/bainz/smt-v-best-demons-and-builds/</id>
+        <media:content url="https://bainnz.github.io/bainz/media/posts/11/gqnpxcztwo571.png" medium="image" />
             <category term="Shin Megami Tensei V"/>
 
         <updated>2025-01-08T09:02:50-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/bainnz/bainz/media/posts/11/gqnpxcztwo571.png" alt="" />
+                        <img src="https://bainnz.github.io/bainz/media/posts/11/gqnpxcztwo571.png" alt="" />
                     [This article was written for base SMT V. SMT V Vengeance update&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/bainnz/bainz/media/posts/11/gqnpxcztwo571.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://bainnz.github.io/bainz/media/posts/11/gqnpxcztwo571.png" class="type:primaryImage" alt="" /></p>
                 <section class="section section--body">
 <div class="section-divider"><em class="markup--em markup--p-em" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">[This article was written for base SMT V. SMT V Vengeance update coming soon™]</em></div>
 <div class="section-content">
@@ -477,21 +477,21 @@
         <author>
             <name>bainz</name>
         </author>
-        <link href="https://github.com/bainnz/bainz/persona-5-strikers-best-personas-and-builds/"/>
-        <id>https://github.com/bainnz/bainz/persona-5-strikers-best-personas-and-builds/</id>
-        <media:content url="https://github.com/bainnz/bainz/media/posts/10/1_L3lzT9PvgUQpj07ovbjBcg.webp" medium="image" />
+        <link href="https://bainnz.github.io/bainz/persona-5-strikers-best-personas-and-builds/"/>
+        <id>https://bainnz.github.io/bainz/persona-5-strikers-best-personas-and-builds/</id>
+        <media:content url="https://bainnz.github.io/bainz/media/posts/10/1_L3lzT9PvgUQpj07ovbjBcg.webp" medium="image" />
             <category term="Persona 5 Strikers"/>
 
         <updated>2025-01-08T08:59:19-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/bainnz/bainz/media/posts/10/1_L3lzT9PvgUQpj07ovbjBcg.webp" alt="" />
+                        <img src="https://bainnz.github.io/bainz/media/posts/10/1_L3lzT9PvgUQpj07ovbjBcg.webp" alt="" />
                     As has been the case for recent Persona games, I wanted to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/bainnz/bainz/media/posts/10/1_L3lzT9PvgUQpj07ovbjBcg.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://bainnz.github.io/bainz/media/posts/10/1_L3lzT9PvgUQpj07ovbjBcg.webp" class="type:primaryImage" alt="" /></p>
                 <section class="section section--body">
 <div class="section-divider"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">As has been the case for recent Persona games, I wanted to make a post going over my builds for NG+. These were the Personas I found to be the strongest and most useful, and the builds I ended up using on them in Merciless.</span></div>
 <div class="section-content">
@@ -565,21 +565,21 @@
         <author>
             <name>bainz</name>
         </author>
-        <link href="https://github.com/bainnz/bainz/persona-4-golden-party-member-builds/"/>
-        <id>https://github.com/bainnz/bainz/persona-4-golden-party-member-builds/</id>
-        <media:content url="https://github.com/bainnz/bainz/media/posts/9/1_wNXwfuY6KmfSixNUQL2okA.png" medium="image" />
+        <link href="https://bainnz.github.io/bainz/persona-4-golden-party-member-builds/"/>
+        <id>https://bainnz.github.io/bainz/persona-4-golden-party-member-builds/</id>
+        <media:content url="https://bainnz.github.io/bainz/media/posts/9/1_wNXwfuY6KmfSixNUQL2okA.png" medium="image" />
             <category term="Persona 4 Golden"/>
 
         <updated>2025-01-08T08:54:47-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/bainnz/bainz/media/posts/9/1_wNXwfuY6KmfSixNUQL2okA.png" alt="" />
+                        <img src="https://bainnz.github.io/bainz/media/posts/9/1_wNXwfuY6KmfSixNUQL2okA.png" alt="" />
                     Just as I did for P5R, I thought I’d make a post&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/bainnz/bainz/media/posts/9/1_wNXwfuY6KmfSixNUQL2okA.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://bainnz.github.io/bainz/media/posts/9/1_wNXwfuY6KmfSixNUQL2okA.png" class="type:primaryImage" alt="" /></p>
                 <section class="section section--body">
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
@@ -642,21 +642,21 @@
         <author>
             <name>bainz</name>
         </author>
-        <link href="https://github.com/bainnz/bainz/persona-4-golden-builds/"/>
-        <id>https://github.com/bainnz/bainz/persona-4-golden-builds/</id>
-        <media:content url="https://github.com/bainnz/bainz/media/posts/8/1_cz97DqG8yiPh2G2k3lz-rQ.png" medium="image" />
+        <link href="https://bainnz.github.io/bainz/persona-4-golden-builds/"/>
+        <id>https://bainnz.github.io/bainz/persona-4-golden-builds/</id>
+        <media:content url="https://bainnz.github.io/bainz/media/posts/8/1_cz97DqG8yiPh2G2k3lz-rQ.png" medium="image" />
             <category term="Persona 4 Golden"/>
 
         <updated>2025-01-08T08:50:35-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/bainnz/bainz/media/posts/8/1_cz97DqG8yiPh2G2k3lz-rQ.png" alt="" />
+                        <img src="https://bainnz.github.io/bainz/media/posts/8/1_cz97DqG8yiPh2G2k3lz-rQ.png" alt="" />
                     With Persona 4 Golden being released on Steam/PC, I thought it’d make&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/bainnz/bainz/media/posts/8/1_cz97DqG8yiPh2G2k3lz-rQ.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://bainnz.github.io/bainz/media/posts/8/1_cz97DqG8yiPh2G2k3lz-rQ.png" class="type:primaryImage" alt="" /></p>
                 <section class="section section--body">
 <div class="section-divider"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">With Persona 4 Golden being released on Steam/PC, I thought it’d make sense to make two posts similar to my previous ones for P5R, going over some of the best Personas available for the MC, Yu Narukami (/Souji Seta), as well as the skill sets of each party member. For Yu, the builds here are still a work in progress and I’ll try to update this post as I’m able to make more that are worth posting.</span></div>
 <div class="section-content">
@@ -723,21 +723,21 @@
         <author>
             <name>bainz</name>
         </author>
-        <link href="https://github.com/bainnz/bainz/lavenza-boss-fight-guide-persona-5-royal/"/>
-        <id>https://github.com/bainnz/bainz/lavenza-boss-fight-guide-persona-5-royal/</id>
-        <media:content url="https://github.com/bainnz/bainz/media/posts/7/maxresdefault-16.jpg" medium="image" />
+        <link href="https://bainnz.github.io/bainz/lavenza-boss-fight-guide-persona-5-royal/"/>
+        <id>https://bainnz.github.io/bainz/lavenza-boss-fight-guide-persona-5-royal/</id>
+        <media:content url="https://bainnz.github.io/bainz/media/posts/7/maxresdefault-16.jpg" medium="image" />
             <category term="Persona 5 Royal"/>
 
         <updated>2025-01-08T08:45:37-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/bainnz/bainz/media/posts/7/maxresdefault-16.jpg" alt="" />
+                        <img src="https://bainnz.github.io/bainz/media/posts/7/maxresdefault-16.jpg" alt="" />
                     Note: Third Semester spoilers, of course. Lavenza was added as a new&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/bainnz/bainz/media/posts/7/maxresdefault-16.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://bainnz.github.io/bainz/media/posts/7/maxresdefault-16.jpg" class="type:primaryImage" alt="" /></p>
                 <section class="section section--body">
 <div class="section-divider"><strong class="markup--strong markup--p-strong" style="font-family: var(--editor-font-family); font-size: inherit;"><em class="markup--em markup--p-em">Note</em></strong><em class="markup--em markup--p-em" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">: Third Semester spoilers, of course.</em></div>
 <div class="section-content">
@@ -857,21 +857,21 @@
         <author>
             <name>bainz</name>
         </author>
-        <link href="https://github.com/bainnz/bainz/persona-5-royal-party-member-builds/"/>
-        <id>https://github.com/bainnz/bainz/persona-5-royal-party-member-builds/</id>
-        <media:content url="https://github.com/bainnz/bainz/media/posts/6/ksJmxHAF3c4PV9N7MRvLCeWb.png" medium="image" />
+        <link href="https://bainnz.github.io/bainz/persona-5-royal-party-member-builds/"/>
+        <id>https://bainnz.github.io/bainz/persona-5-royal-party-member-builds/</id>
+        <media:content url="https://bainnz.github.io/bainz/media/posts/6/ksJmxHAF3c4PV9N7MRvLCeWb.png" medium="image" />
             <category term="Persona 5 Royal"/>
 
         <updated>2025-01-08T08:39:04-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/bainnz/bainz/media/posts/6/ksJmxHAF3c4PV9N7MRvLCeWb.png" alt="" />
+                        <img src="https://bainnz.github.io/bainz/media/posts/6/ksJmxHAF3c4PV9N7MRvLCeWb.png" alt="" />
                     One of the things Persona 5 Royal added compared to the original&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/bainnz/bainz/media/posts/6/ksJmxHAF3c4PV9N7MRvLCeWb.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://bainnz.github.io/bainz/media/posts/6/ksJmxHAF3c4PV9N7MRvLCeWb.png" class="type:primaryImage" alt="" /></p>
                 <section class="section section--body">
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
@@ -1054,21 +1054,21 @@
         <author>
             <name>bainz</name>
         </author>
-        <link href="https://github.com/bainnz/bainz/ultimate-persona-team-persona-5-royal-builds/"/>
-        <id>https://github.com/bainnz/bainz/ultimate-persona-team-persona-5-royal-builds/</id>
-        <media:content url="https://github.com/bainnz/bainz/media/posts/5/1_5ibjn6hJiEJtJJoweRHk1g.webp" medium="image" />
+        <link href="https://bainnz.github.io/bainz/ultimate-persona-team-persona-5-royal-builds/"/>
+        <id>https://bainnz.github.io/bainz/ultimate-persona-team-persona-5-royal-builds/</id>
+        <media:content url="https://bainnz.github.io/bainz/media/posts/5/1_5ibjn6hJiEJtJJoweRHk1g.webp" medium="image" />
             <category term="Persona 5 Royal"/>
 
         <updated>2025-01-08T08:30:22-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/bainnz/bainz/media/posts/5/1_5ibjn6hJiEJtJJoweRHk1g.webp" alt="" />
+                        <img src="https://bainnz.github.io/bainz/media/posts/5/1_5ibjn6hJiEJtJJoweRHk1g.webp" alt="" />
                     Back when I finished Vanilla Persona 5, I made a post about&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/bainnz/bainz/media/posts/5/1_5ibjn6hJiEJtJJoweRHk1g.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://bainnz.github.io/bainz/media/posts/5/1_5ibjn6hJiEJtJJoweRHk1g.webp" class="type:primaryImage" alt="" /></p>
                 <section class="section section--body">
 <div class="section-divider"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Back when I finished Vanilla Persona 5, I </span><a href="https://medium.com/@bainz350/ultimate-persona-team-persona-5-builds-be2a57efa24e" data-href="https://medium.com/@bainz350/ultimate-persona-team-persona-5-builds-be2a57efa24e" class="markup--anchor markup--p-anchor" target="_blank" rel="noopener" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">made a post</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> about my NG+ team. With recently being able to finish Persona 5 Royal, it felt natural to make another post of the Personas I used this time around, including some of the best &amp; strongest ones in the game.</span></div>
 <div class="section-content">
