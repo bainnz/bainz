@@ -3,7 +3,7 @@
     <title>bainz library</title>
     <link href="https://bainz.ca/feed.xml" rel="self" />
     <link href="https://bainz.ca" />
-    <updated>2025-04-18T19:38:27-06:00</updated>
+    <updated>2025-04-18T21:15:05-06:00</updated>
     <author>
         <name>bainz</name>
     </author>
@@ -45,7 +45,7 @@
 <li class="graf graf--li"><a href="https://medium.com/@bainz350/persona-4-golden-builds-4e6873e91089" data-href="https://medium.com/@bainz350/persona-4-golden-builds-4e6873e91089" class="markup--anchor markup--li-anchor" target="_blank" rel="noopener">Persona 4 Golden Builds</a></li>
 <li class="graf graf--li"><a href="https://medium.com/@bainz350/persona-4-golden-party-member-builds-77b823572695" data-href="https://medium.com/@bainz350/persona-4-golden-party-member-builds-77b823572695" class="markup--anchor markup--li-anchor" target="_blank" rel="noopener">Persona 4 Golden Party Member Builds</a></li>
 </ul>
-<hr></div>
+</div>
 </div>
 </section>
 <section class="section section--body">
@@ -140,7 +140,6 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <p class="graf graf--p">To begin, there are important things to note about this fight:</p>
@@ -189,7 +188,6 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <p class="graf graf--p">You can also use the Magatsuhi Adversity skill (from Beast race Demons) to end the Demi-Fiend fight in record time. <em class="markup--em markup--p-em">[Vengeance Edit: SMTVV nerfed the amount of Magatsuhi gauge you get from sacrificing Demons from 30% to 15%, so this exact strat doesn’t work anymore. There are still quick Demi-Fiend kills, they just work differently.]</em></p>
@@ -243,7 +241,6 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Stats</h4>
@@ -301,7 +298,6 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <p class="graf graf--p">Those are basically my recommendations for building Nahobino. If you liked this type of post, you might like my <a href="https://medium.com/@bainz350/smt-v-best-demons-builds-wip-bdeadfa83e69" data-href="https://medium.com/@bainz350/smt-v-best-demons-builds-wip-bdeadfa83e69" class="markup--anchor markup--p-anchor" target="_blank" rel="noopener">SMT V Demon Builds</a> one. And I have a <a href="https://youtube.com/bainz" target="_blank" rel="noopener noreferrer">YouTube channel</a> where I post build videos, boss fights, among other things.</p>
@@ -365,7 +361,6 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <p class="graf graf--p"><em class="markup--em markup--p-em">[I’m making a new post for SMTVV stuff, but this’ll do for now:]</em></p>
@@ -436,7 +431,7 @@
 <h4 class="graf graf--h4">Fionn mac Cumhail</h4>
 <figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*vkt6467I8w74eGrOaS3HJg.png" data-image-id="1*vkt6467I8w74eGrOaS3HJg.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Fionn’s unique move isn’t the absolute strongest, but it has a cool animation and I liked him throughout the story, so I decided to build him.</p>
-<hr></div>
+</div>
 </div>
 </section>
 <section class="section section--body">
@@ -503,12 +498,11 @@
 <li class="graf graf--li"><a href="https://aqiu384.github.io/megaten-fusion-tool/p5s/personas" data-href="https://aqiu384.github.io/megaten-fusion-tool/p5s/personas" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">P5S Fusion Calculator</a> (with Combo Skills, Skill Descriptions, etc.)</li>
 </ul>
 <p class="graf graf--p">To max out Persona stats, I used the ‘coalescing power’ method, which involves fusing together strengthened Personas to create new ones with continually higher stats. The method can be <a href="https://kamigame.jp/P5S/%E6%94%BB%E7%95%A5%E3%82%AC%E3%82%A4%E3%83%89/%E5%8A%9B%E3%81%AE%E8%93%84%E7%A9%8D.html" data-href="https://kamigame.jp/P5S/%E6%94%BB%E7%95%A5%E3%82%AC%E3%82%A4%E3%83%89/%E5%8A%9B%E3%81%AE%E8%93%84%E7%A9%8D.html" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">read about here</a> (use Google Translate) or you can <a href="https://www.youtube.com/watch?v=ebveWXb_2lU" data-href="https://www.youtube.com/watch?v=ebveWXb_2lU" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">watch Rozalin’s video on the topic here</a>. Max stats aren’t necessary for any content, even on Merciless, so it’s completely optional. I should also give a shoutout to VeloPls, a speedrunner of P5S, for some inspiration behind these builds, check out their <a href="https://www.youtube.com/channel/UCSSk5JswHDGC1OYV5xAk5Jw" data-href="https://www.youtube.com/channel/UCSSk5JswHDGC1OYV5xAk5Jw" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">YouTube channel</a> for more Strikers content (beware of some story spoilers).</p>
-<p class="graf graf--p">One last thing, I do have a <a href="https://www.youtube.com/channel/UCnLjSxdgknngSPxvw4D9ZBA" data-href="https://www.youtube.com/channel/UCnLjSxdgknngSPxvw4D9ZBA" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">YouTube channel</a> of my own where I post build guides, boss fights and other Persona/RPG content, so stop by there as I’ll likely have videos for these Personas coming out soon.<a href="https://www.youtube.com/channel/UCnLjSxdgknngSPxvw4D9ZBA" data-href="https://www.youtube.com/channel/UCnLjSxdgknngSPxvw4D9ZBA" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.youtube.com/channel/UCnLjSxdgknngSPxvw4D9ZBA"></a><a href="https://www.youtube.com/channel/UCnLjSxdgknngSPxvw4D9ZBA" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="2458cef88836b5c424810c10451ceb7d" data-thumbnail-img-id="0*qABh5B05kAL08Bos"></a></p>
+<p class="graf graf--p">One last thing, I do have a <a href="https://www.youtube.com/channel/UCnLjSxdgknngSPxvw4D9ZBA" data-href="https://www.youtube.com/channel/UCnLjSxdgknngSPxvw4D9ZBA" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">YouTube channel</a> of my own where I post build guides, boss fights and other Persona/RPG content, so stop by there as I’ll likely have videos for these Personas coming out soon.</p>
 </div>
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Lucifer</h4>
@@ -534,7 +528,6 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <figure class="graf graf--figure graf--iframe">
@@ -597,7 +590,6 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Yosuke</h4>
@@ -674,7 +666,6 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Yoshitsune</h4>
@@ -701,7 +692,6 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <p class="graf graf--p">Other great Personas:</p>
@@ -749,7 +739,6 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Party</h4>
@@ -798,7 +787,6 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Solo (with DLC)</h4>
@@ -818,7 +806,6 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Solo (No DLC)</h4>
@@ -839,7 +826,6 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <p class="graf graf--p">Will put any other Lavenza vids I do here:</p>
@@ -889,7 +875,6 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Morgana</h4>
@@ -948,7 +933,8 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
+<div class="section-divider"> </div>
+<div>.</div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <p class="graf graf--p">.</p>
@@ -974,7 +960,6 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <p class="graf graf--p"><strong class="markup--strong markup--p-strong">Best accessories in general:</strong></p>
@@ -1086,7 +1071,6 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Yoshitsune</h4>
@@ -1141,7 +1125,6 @@
 </div>
 </section>
 <section class="section section--body">
-<div class="section-divider"><hr class="section-divider"></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Other great Personas:</h4>
