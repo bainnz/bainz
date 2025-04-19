@@ -3,7 +3,7 @@
     <title>bainz library</title>
     <link href="https://bainz.ca/feed.xml" rel="self" />
     <link href="https://bainz.ca" />
-    <updated>2025-04-18T01:23:06-06:00</updated>
+    <updated>2025-04-18T19:38:27-06:00</updated>
     <author>
         <name>bainz</name>
     </author>
@@ -23,7 +23,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://bainz.ca/media/posts/1/P3R-Key-Art.jpg" alt="" />
-                    As I’ve done for P5 and P4, I wanted to make a post about the different party members in the&hellip;
+                    As I’ve done for P5 and P4, I wanted to make a&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -52,22 +52,22 @@
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Yukari</h4>
-<figure class="graf graf--figure"><figure class="post__image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*mWpnDuBF8vGX2guBowJIcw.png" alt="Yukari" data-image-id="1*mWpnDuBF8vGX2guBowJIcw.png" data-width="1280" data-height="720"></figure></figure>
+<figure class="graf graf--figure"><figure class="post__image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*mWpnDuBF8vGX2guBowJIcw.png" alt="Yukari" data-image-id="1*mWpnDuBF8vGX2guBowJIcw.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Yukari is your standard Healer: she heals, removes ailments, lowers enemy agility, and heals even more. The main draw for Yukari are her characteristics, which reduce her SP costs for healing by 50-75%. This lets you have basically infinite healing for Tartarus runs and boss fights. Do you need that much healing? Probably no, but it’s still nice to have sometimes. Yukari’s 2nd Theurgy is a full team Concentrate (2.3x Damage in Reload), allowing her to support the team even more. Magic isn’t as strong as Phys in P3R, but I’m not gonna complain about that type of support skill on a healer.</p>
 <p class="graf graf--p">Diarahan on this build could be swapped out, as Yukari’s characteristic makes full team healing so cheap as it is. But there’s not really any good move to replace it with (I’m never using Wind Break or ailments tbh). So I was fine keeping it here.</p>
 <h4 class="graf graf--h4">Junpei</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*ssev7tDrZVhqGoW-lcnY5g.png" data-image-id="1*ssev7tDrZVhqGoW-lcnY5g.png" data-width="1280" data-height="720"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*ssev7tDrZVhqGoW-lcnY5g.png" data-image-id="1*ssev7tDrZVhqGoW-lcnY5g.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Junpei is your Critical Hit specialist in P3R, with his Theurgy charging faster after landing a crit and his characteristic increasing his Critical Rate &amp; Damage. Junpei can benefit quite a bit from gear, so getting the Omega Drive accessory (available as a reward for saving the missing person in Tartarus Floor 177) or his Ultimate Weapon (Masakado’s Katana in the Antique Store) would be pretty good for him, providing Apt Pupil (2x Crit Rate). Another great mid-game accessory for Junpei are the Slash Bracers (Slash Boost) from the Antique Store.</p>
 <p class="graf graf--p">I didn’t keep Junpei’s Strike attack on this build (Gigantic Fist), as late game the damage on it isn’t impressive and I have MC/Akihiko/Aigis for Strike.</p>
 <h4 class="graf graf--h4">Akihiko</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*TyL4kTVNM_jxwV_1hmlPNg.png" data-image-id="1*TyL4kTVNM_jxwV_1hmlPNg.png" data-width="1280" data-height="720"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*TyL4kTVNM_jxwV_1hmlPNg.png" data-image-id="1*TyL4kTVNM_jxwV_1hmlPNg.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Akihiko can be one of the most misunderstood characters in P3R, simply because the wording on his Theurgy condition is awful. In-game it states, “After strengthening himself, his fighting spirit rises”. This makes it seem like you have to use Aki to buff himself, but how it actually works is: whenever Aki’s turn begins, if he has any type of buff on him, his Theurgy charges faster. Any teamwide buff works for this, making Akihiko have one of the fastest charging Theurgies.</p>
 <p class="graf graf--p">His final characteristic Buff Amp doesn’t specify it’s value either, but it actually gives a 1.3x Boost to any type of buff. This means that when Akihiko has an Attack Buff, instead of the normal 1.4x Damage, he’ll do ~1.82x Damage.</p>
 <p class="graf graf--p">All this means Akihiko will be one of the highest damaging party members you have, and he works with either Phys or Magic. His support options of Atk Down/Agi Up aren’t the best out of the team, so he’s definitely not a must pick character, but he’s very solid.</p>
 <p class="graf graf--p">The Double Ziggurat weapon (Strike Amp) and Strike Bracers accessory (Strike Boost) help his physical damage a lot. Don’t use Evil Gloves (his “Ultimate Weapon”) on Akihiko, if MC has a Persona with Auto-Mataru/Maraku/Masuku, that weapon does literally nothing. I did keep both the Single Target and AoE Electric skills on Akihiko, but one of them could be replaced with Shock Boost.</p>
 <h4 class="graf graf--h4">Mitsuru</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*33DX9tEWoAxdKM0YeowVUA.png" data-image-id="1*33DX9tEWoAxdKM0YeowVUA.png" data-width="1280" data-height="720"></figure></figure>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*mk7PIxAwjKzR1Mw7wiL4fA.png" data-image-id="1*mk7PIxAwjKzR1Mw7wiL4fA.png" data-width="1280" data-height="720"></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*33DX9tEWoAxdKM0YeowVUA.png" data-image-id="1*33DX9tEWoAxdKM0YeowVUA.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*mk7PIxAwjKzR1Mw7wiL4fA.png" data-image-id="1*mk7PIxAwjKzR1Mw7wiL4fA.png" data-width="1280" data-height="720" data-is-external-image="true"></figure>
 <figcaption class="imageCaption">Episode Aigis</figcaption>
 </figure>
 <p class="graf graf--p">Mitsuru is your main Magic damage dealer throughout the game. Because of how skewed Reload is in favor of Phys, Akihiko/Junpei/Aigis will generally out-damage her, but she has some other things going for her. The support skill of Rakunda/Marakunda lowering enemy defense is super nice to have, being a reliable way to increase your whole team’s damage by 40% in any situation.</p>
@@ -75,23 +75,23 @@
 <p class="graf graf--p">For Mitsuru to do max damage late game, you’d want to have the Kokuseki Senjin weapon (Magic Ability) and Varna Bracers accessory (Ice Amp) from the Antique Store. On this build, I did remove Neuro Slash as it doesn’t do much damage. I kept Ice Break as many late game enemies block Ice, but it could be replaced with Freeze Boost.</p>
 <p class="graf graf--p">In Episode Aigis, Mitsuru got Vorpal Blade, so she can actually be a Phys DPS with Slash/Crit gear. See my Episode Aigis ranking for more info.</p>
 <h4 class="graf graf--h4">Aigis</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*tvtrYiaA3f0Hwi3_-CLQdQ.png" data-image-id="1*tvtrYiaA3f0Hwi3_-CLQdQ.png" data-width="1280" data-height="720"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*tvtrYiaA3f0Hwi3_-CLQdQ.png" data-image-id="1*tvtrYiaA3f0Hwi3_-CLQdQ.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Aigis is your go-to buffer and Pierce damage dealer in the game. She also gets Resist Phys, Enduring Soul, Insta-Heal and the highest base Endurance stat for any party member, making her very tanky. Aigis’ best armor has a Null Ailments passive, which is why I didn’t keep Insta-Heal on this build. Aigis is pretty straightforward, using Phys attacks charge her Theurgy, her characteristic increases the damage of said Phys attacks, and you have Atk/Def buffs available to use.</p>
 <h4 class="graf graf--h4">Koromaru</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*X_kD06AysfxTp5JMWg34iw.png" data-image-id="1*X_kD06AysfxTp5JMWg34iw.png" data-width="1280" data-height="720"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*X_kD06AysfxTp5JMWg34iw.png" data-image-id="1*X_kD06AysfxTp5JMWg34iw.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Koromaru is simply one of the best party members in the game. As soon as you get him, Koro is able to use 2 Theurgies, with the 2nd one, Power Howling, being a full party Charge. This is, in my opinion, the strongest support move in the game, as Phys is so good in Reload, and it lets any party member do 2.3x more damage with their next Phys attack.</p>
 <p class="graf graf--p">He gets coverage options in Fire, Dark, Slash, Almighty, and you can even get a weapon in the mid-game (Hazakura in the Antique Store) that turns his basic attack to Wind affinity, letting him hit 4 weaknesses. Revolution boosts your whole team’s crit rate. Masukukaja and Debilitate come pretty far in, but they add a lot to Koro’s support skill set.</p>
 <p class="graf graf--p">Last thing to note about Koro is, Getsu-ei is a lot stronger than Tempest Slash when you are close to a Full Moon. And since pretty much every relevant fight happens on a Full Moon day, it’s a lot better to keep. Also, it has higher crit rate (15% vs 8% base chance). In Episode Aigis, Getsu-Ei got removed, so just use Tempest Slash.</p>
 <h4 class="graf graf--h4">Ken</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*pcvYBDS_hbExQv7GRdXe_A.png" data-image-id="1*pcvYBDS_hbExQv7GRdXe_A.png" data-width="1280" data-height="720"></figure></figure>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*u4_t4eNJgDoXXhsNyaEizA.png" data-image-id="1*u4_t4eNJgDoXXhsNyaEizA.png" data-width="1280" data-height="720"></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*pcvYBDS_hbExQv7GRdXe_A.png" data-image-id="1*pcvYBDS_hbExQv7GRdXe_A.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*u4_t4eNJgDoXXhsNyaEizA.png" data-image-id="1*u4_t4eNJgDoXXhsNyaEizA.png" data-width="1280" data-height="720" data-is-external-image="true"></figure>
 <figcaption class="imageCaption">Episode Aigis</figcaption>
 </figure>
 <p class="graf graf--p">Ken is your second Healer, and he does get a number of different moves in his kit. He gets Electric, Light and Pierce coverage moves, so he’s able to hit more weaknesses than most party members. I didn’t keep Vile Assault on this build, but you can still get Pierce knockdowns with Ken’s basic attack. Most of the time, I’d use MC/Aigis/Junpei for Pierce so I opted to keep more of Ken’s support skills. I didn’t keep Samarecarm either, as revive items are fairly accessible, so the skill slot felt better used on other stuff.</p>
 <p class="graf graf--p">In Episode Aigis, Ken learnt some new Pierce moves, including Myriad Arrows. I found myself not using Heat Riser much (prefer full party buffs), so I kept the 2 Pierce moves this time.</p>
 <p class="graf graf--p">Ken has screens for Tetrakarn and Makarkarn, and his 2nd Theurgy takes this one step further, fully healing and reviving all teammates, as well as providing 1 layer of each screen for everyone. This is a great Theurgy, and if you keep Ken below 50% SP, he can get it back really quickly (every 3 turns). I didn’t use Ken as much during the Journey, but in Episode Aigis with combat being more difficult, I appreciated his kit a lot more and used him a ton!</p>
 <h4 class="graf graf--h4">Metis</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*417ye600MAol0uaCEfxxug.png" data-image-id="1*417ye600MAol0uaCEfxxug.png" data-width="1280" data-height="720"></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*417ye600MAol0uaCEfxxug.png" data-image-id="1*417ye600MAol0uaCEfxxug.png" data-width="1280" data-height="720" data-is-external-image="true"></figure>
 <figcaption class="imageCaption">Episode Aigis</figcaption>
 </figure>
 <p class="graf graf--p">The most broken character, aside from MC. Does a ton of damage, has Charge, 2 great Strike Theurgies, Wind/Ice coverage (I removed these on the final build cause I didn’t need them as much late game), Attack buff, no weaknesses, good characteristic, etc etc etc. Basically Journey Aigis and Shinji in one.</p>
@@ -123,7 +123,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://bainz.ca/media/posts/13/sg-smt-v-dlc-return-of-the-true-demon.png" alt="" />
-                    [This article was written for base SMT V. SMT V Vengeance update coming soon™] Along with a new Shin Megami&hellip;
+                    [This article was written for base SMT V. SMT V Vengeance update&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -153,22 +153,22 @@
 <li class="graf graf--li">Two of Demi-Fiend’s ally Demons can heal: Pixie and Parvati. So they need to be taken out ASAP when they appear.</li>
 </ul>
 <p class="graf graf--p">So you want to create a party that easily buff, de-buff, take care of the ally Demons and do damage to Demi-Fiend. One good party set-up for that is Shiva, Idun and Zhuque. You can of course keep additional Demons for back-up, along with these Demons. I’ll explain their roles with pictures of the builds used.</p>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*RqxdeP5-JriTPGUSrStAmw.png" data-image-id="1*RqxdeP5-JriTPGUSrStAmw.png" data-width="1280" data-height="720"></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*RqxdeP5-JriTPGUSrStAmw.png" data-image-id="1*RqxdeP5-JriTPGUSrStAmw.png" data-width="1280" data-height="720" data-is-external-image="true"></figure>
 <figcaption class="imageCaption">(Click on image for better resolution)</figcaption>
 </figure>
 <p class="graf graf--p">Shiva is here to lower defense to the minimum with Tandava. You use Tandava at the start of a Magatsuhi Critical Turn to create more press turns and lower defense immediately. Shiva innately resists Physical, so he soaks up most of Demi-Fiend’s attacks. In addition, Donum Gladi is used to buff Nahobino on certain turns.</p>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*ZKMWW328ZDlZwDFyvWRN5w.png" data-image-id="1*ZKMWW328ZDlZwDFyvWRN5w.png" data-width="1280" data-height="720"></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*ZKMWW328ZDlZwDFyvWRN5w.png" data-image-id="1*ZKMWW328ZDlZwDFyvWRN5w.png" data-width="1280" data-height="720" data-is-external-image="true"></figure>
 <figcaption class="imageCaption">(Click on image for better resolution)</figcaption>
 </figure>
 <p class="graf graf--p">Idun is an essential party member due to her skill Golden Apple, which is Mediarama and Luster Candy in one move. Being able to heal and buff at the same time is super valuable, especially in this fight where each turn matters. Idun also has Force Skill Potential, so she is able to do consistent damage to Girimehkala and Thor. This extra damage is crucial for taking out the ally Demons and letting Nahobino focus on Demi-Fiend. Idun is a better pick than [Spoiler Character] here, because she gets much better stats due to being fusible and Force coverage is better than [Spoiler Character’s] Light/Almighty coverage in the fight. I used a ton of Stamina Incenses to raise Idun’s MP stat.</p>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*p6ZKkf8-DOOQ7ib64y7_zA.png" data-image-id="1*p6ZKkf8-DOOQ7ib64y7_zA.png" data-width="1280" data-height="720"></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*p6ZKkf8-DOOQ7ib64y7_zA.png" data-image-id="1*p6ZKkf8-DOOQ7ib64y7_zA.png" data-width="1280" data-height="720" data-is-external-image="true"></figure>
 <figcaption class="imageCaption">(Click on image for better resolution)</figcaption>
 </figure>
 <p class="graf graf--p">Zhuque might be an unexpected pick, but they are essential for cutting down the length of the fight. Avian/Raptor race Demons get access to the Magatsuhi skill Accursed Poison. Accursed Poison will 100% apply an ailment to the enemy and casts Debilitate. Higher tier ailments are prioritized, so this skill can apply Seal to Demi-Fiend. If Demi-Fiend is sealed, he is not able to use Mediarahan, so his effective HP shrinks from 90k to 60k. You have to time it so you use Accursed Poison on the turn his HP goes below 50%, but it can make the fight drastically more manageable.</p>
 <p class="graf graf--p">[<em class="markup--em markup--p-em">Vengeance Edit: In SMTVV, Accursed Poison on Demi-Fiend seems to be a bit less reliable now, either because it has a lower chance rate or it doesn’t always prioritize Seal. Haven’t been able to test myself yet.]</em></p>
 <p class="graf graf--p">So an Avian/Raptor Demon is required for Accursed Poison, but why Zhuque? Zhuque is the only Avian/Raptor with both Fire and Support skill potential. Fire is a great element in the fight, because both Jack Frost and Parvati are weak to it. Idun’s Force damage and Zhuque’s Fire damage can be enough to take care of the ally Demons’ HP bars. Support skill potential reduces the cost of Donum Gladi (used to buff Nahobino at times) and Matarunda. I have Matarunda instead of Debilitate, because I don’t want to lower too many stats, causing enemies to use Dekunda immediately. Matarunda also costs much less MP.</p>
 <p class="graf graf--p"><strong class="markup--strong markup--p-strong">Instead of building Zhuque, you could just keep an Avian/Raptor Demon in reserve and bring them in on the turn you need Accursed Poison.</strong> Make sure to put Repel Physical on this Avian/Raptor if you are bringing them in for 1 turn, so Demi-Fiend loses all his press turns when he attacks them. This would allow you to use Nuwa/Inanna/another Force Demon when Girimehkala or Thor are on the field, and Amon/Inanna/another Fire Demon when Jack Frost or Parvati are on field. That requires building more Demons, so it’s up to you.</p>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*ar7_ZMjTZ8zda0tZzreDnA.png" data-image-id="1*ar7_ZMjTZ8zda0tZzreDnA.png" data-width="1280" data-height="720"></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*ar7_ZMjTZ8zda0tZzreDnA.png" data-image-id="1*ar7_ZMjTZ8zda0tZzreDnA.png" data-width="1280" data-height="720" data-is-external-image="true"></figure>
 <figcaption class="imageCaption">(Click on image for better resolution)</figcaption>
 </figure>
 <p class="graf graf--p">Nahobino is on a standard Murakumo build. I added Revival Chant in case a party member died from Chaotic Will. See my Nahobino Build post for more on him. Because of the amount of ailments, insta-kills, etc., every Demon used in this fight has to have Abyssal Mask and Enduring Soul.<a href="https://medium.com/@bainz350/nahobino-best-build-guide-smt-v-a56f10f633cb" data-href="https://medium.com/@bainz350/nahobino-best-build-guide-smt-v-a56f10f633cb" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://medium.com/@bainz350/nahobino-best-build-guide-smt-v-a56f10f633cb"></a><a href="https://medium.com/@bainz350/nahobino-best-build-guide-smt-v-a56f10f633cb" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="94b6c5f313dbbc0b48ca16219f7f2e1f" data-thumbnail-img-id="1*i3_sbEZu0iJhXCqlhsLA6g.png"></a></p>
@@ -222,7 +222,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://bainz.ca/media/posts/12/1_i3_sbEZu0iJhXCqlhsLA6g.webp" alt="" />
-                    [This article was written for base SMT V. SMT V Vengeance update coming soon™] In Shin Megami Tensei V, you&hellip;
+                    [This article was written for base SMT V. SMT V Vengeance update&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -248,7 +248,7 @@
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Stats</h4>
 <p class="graf graf--p">As you can probably tell, but I put almost all my allotted stat points into Strength. Putting points into Strength or Magic gives you a guaranteed return, your damage will just be higher, and because of how customizable Nahobino is, he can output more damage than any other Demon. Vitality is another good stat to consider, especially on Hard mode, it can sometimes make the difference between surviving or multiple game overs. Agility and Luck, in my opinion, aren’t really worth investing in. I’ve never had problems landing hits/dodging with no investment in Agility, and there’s been <a href="https://gamefaqs.gamespot.com/boards/204211-shin-megami-tensei-v/79767889" data-href="https://gamefaqs.gamespot.com/boards/204211-shin-megami-tensei-v/79767889" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">some testing from people who save edited the game to give a Demon 999 Agility</a>, low level demons were still able to hit them. Agility can affect your likelihood to escape battles, but you can simply use Trafuri/Smoke Balls. Luck might be good on an Ailment/Poison-focused build, and for item drop rates, but otherwise it’s not too worth it.</p>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*9SHf9PnOE5dlQuERh2zuXQ.jpeg" data-image-id="1*9SHf9PnOE5dlQuERh2zuXQ.jpeg" data-width="1024" data-height="576"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*9SHf9PnOE5dlQuERh2zuXQ.jpeg" data-image-id="1*9SHf9PnOE5dlQuERh2zuXQ.jpeg" data-width="1024" data-height="576" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">As for Strength or Magic, I think both routes are viable. Magic is very good early game, as it can always grant extra press turns and provides good damage. A Strength build really takes off after you get late game skills like Murakumo, a Strength-based Almighty attack with high Crit Damage. For every Story fight and the Shiva Superboss fight, both builds can work extremely well (a lot of speedrunners are actually going Magic build so far). There is the optional DLC Demi-Fiend fight, which most people go Strength build for, but I have seen Magic build runs that do well there. So go for either one, just make sure to only invest in Strength <em class="markup--em markup--p-em">or</em> Magic, not both. Investing in both will make your damage pretty mediocre.</p>
 <p class="graf graf--p">Aside from a Strength or Magic build, you can go for a Support/Healing build.</p>
 <p><em class="markup--em markup--p-em">Vengeance Edit</em>: Nahobino got some new moves, making support build actually very good! Along with former moves like Kanabi Veil and Revival Chant:</p>
@@ -260,7 +260,7 @@
 <li class="graf graf--li">Intercalation (+1 Press Turn next turn if you evade an attack, pairs well with the previous skill)</li>
 </ul>
 <h4 class="graf graf--h4">Skills</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*fJjCk72jxNtaDOCSGk7Euw.jpeg" data-image-id="1*fJjCk72jxNtaDOCSGk7Euw.jpeg" data-width="1978" data-height="1112"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*fJjCk72jxNtaDOCSGk7Euw.jpeg" data-image-id="1*fJjCk72jxNtaDOCSGk7Euw.jpeg" data-width="1978" data-height="1112" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">For my Strength Nahobino, I went with a crit-focused Murakumo build. Murakumo, being Almighty, hits everything for neutral damage and can’t be resisted. Normal moves, when they crit, do 1.5x damage, but Murakumo has increased Crit Damage, letting you do 1.8x damage on a critical. This makes using it in conjunction with Critical Aura (next attack is guaranteed critical and 100% accurate) and Critical Zealot (decreases normal damage but increases Crit Damage) a great idea. Almighty Pleroma and High Almighty Pleroma stack and buff Murakumo. Abyssal Mask and Enduring Soul are good safety skills, preventing ailments/insta-kills and giving you 1 extra life per battle. The last skill slot is something to cover a weakness, like Repel Force.</p>
 <p class="graf graf--p">A general skill path for a Strength-Almighty build would be something like this:</p>
 <ol class="postList">
@@ -287,7 +287,7 @@
 </ul>
 <p class="graf graf--p">Ice damage because Shiva is weak to Ice. Wind because Ananta, a healing Demon Shiva summons, blocks Ice but is weak to Wind. And a bunch of passives. High Restore especially can useful for conserving MP.</p>
 <h4 class="graf graf--h4">Affinities</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*QmgpjPFJXVMoJVOEFBFiwg.jpeg" data-image-id="1*QmgpjPFJXVMoJVOEFBFiwg.jpeg" data-width="960" data-height="500"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*QmgpjPFJXVMoJVOEFBFiwg.jpeg" data-image-id="1*QmgpjPFJXVMoJVOEFBFiwg.jpeg" data-width="960" data-height="500" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">When it comes to Nahobino’s affinities, you want to be changing them before every big boss fight in order to prevent damage and make the boss lose press turns. For example, before Nuwa, use a Null Force Essence to block her moves. As far as endgame Essences, there are a number of options:</p>
 <ul class="postList">
 <li class="graf graf--li"><strong class="markup--strong markup--li-strong">Sandalphon</strong>: Null Phys/Elec/Light, Resist Dark, Weak to Force</li>
@@ -340,7 +340,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://bainz.ca/media/posts/11/gqnpxcztwo571.png" alt="" />
-                    [This article was written for base SMT V. SMT V Vengeance update coming soon™] With Shin Megami Tensei V being&hellip;
+                    [This article was written for base SMT V. SMT V Vengeance update&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -387,54 +387,54 @@
 </div>
 </figure>
 <h4 class="graf graf--h4">Idun</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*BkAMATS6ogmfblLiy7B3bQ.png" data-image-id="1*BkAMATS6ogmfblLiy7B3bQ.png" data-width="1280" data-height="720"></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*BkAMATS6ogmfblLiy7B3bQ.png" data-image-id="1*BkAMATS6ogmfblLiy7B3bQ.png" data-width="1280" data-height="720" data-is-external-image="true"></figure>
 <figcaption class="imageCaption">Early Game Build</figcaption>
 </figure>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*Laiui9nq469dS1wzl_eAdg.png" data-image-id="1*Laiui9nq469dS1wzl_eAdg.png" data-width="1280" data-height="720"></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*Laiui9nq469dS1wzl_eAdg.png" data-image-id="1*Laiui9nq469dS1wzl_eAdg.png" data-width="1280" data-height="720" data-is-external-image="true"></figure>
 <figcaption class="imageCaption">End Game Build</figcaption>
 </figure>
 <p class="graf graf--p">Idun is one of the best Demons to get mid-way through the game as she learns Golden Apple, a full-party buff and heal. It’s a really strong skill for this point in the game, allowing her to stay useful to the very end. It costs a ton of MP, but you basically only use it in boss fights anyways. I added Boon Boost, Mana Spring and Resist Elec to her skill set. Here’s a quick video on building her:</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/GYg_-RL9Fk8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h4 class="graf graf--h4">Yoshitsune</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*FH4kdJBBJ3NnSpTBp16GXA.png" data-image-id="1*FH4kdJBBJ3NnSpTBp16GXA.png" data-width="1280" data-height="720"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*FH4kdJBBJ3NnSpTBp16GXA.png" data-image-id="1*FH4kdJBBJ3NnSpTBp16GXA.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Hassou Tobi competes with the endgame Phys skills, and always lands a critical hit, granting you an extra press turn. This combined with the fact you can fuse Yoshitsune at Level 45, makes him a great Demon to use.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/YGuCSKJ2dm8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h4 class="graf graf--h4">Cleopatra</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*CKW1yFqcewwZ7_qIt6-rww.png" data-image-id="1*CKW1yFqcewwZ7_qIt6-rww.png" data-width="1280" data-height="720"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*CKW1yFqcewwZ7_qIt6-rww.png" data-image-id="1*CKW1yFqcewwZ7_qIt6-rww.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Cleopatra, a DLC Demon, makes for a great de-buffer. Her skill Frolic can charm enemies, in addition to lowering their attack/defense by 2 stages. She has great stats, resistances, skill potentials, really no downsides. The only case where Cleopatra isn’t good is when a boss nulls Charm, thus blocking Frolic, but luckily not too many bosses pose that issue.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/fKJaWJjE0Vc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h4 class="graf graf--h4">Shiva</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*Wq2jlVT72cl5pCf4zrgj0A.png" data-image-id="1*Wq2jlVT72cl5pCf4zrgj0A.png" data-width="1280" data-height="720"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*Wq2jlVT72cl5pCf4zrgj0A.png" data-image-id="1*Wq2jlVT72cl5pCf4zrgj0A.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Shiva’s Tandava is a really useful move because it lowers enemy defense to the minimum. Even if they’re at +1 or +2 defense, it automatically puts them at -2. This effect is very handy in the Demi-Fiend fight, and makes Shiva a great Demon to keep around. I added Donum Gladi to buff Nahobino at times, since I ran a Strength build.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/4jzTXGt1VMY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h4 class="graf graf--h4">Nuwa</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*75Yfb68Qy1Hfwnh66eJT_Q.png" data-image-id="1*75Yfb68Qy1Hfwnh66eJT_Q.png" data-width="1280" data-height="720"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*75Yfb68Qy1Hfwnh66eJT_Q.png" data-image-id="1*75Yfb68Qy1Hfwnh66eJT_Q.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Nuwa, a NG+ exclusive Demon, is the best Force Demon in the game. Her skill Sacrifice of Clay can do a good amount of damage, lower enemies’ attack/defense by 1 stage and, if the foe is weak to Wind, create extra press turns. Safeguard is on here so you can use the move in the Demi-Fiend fight, without losing turns due to Null/Repel/Absorb.</p>
 <h4 class="graf graf--h4">Demeter</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*cmpPGcYaqmZd4WF_owQFtA.png" data-image-id="1*cmpPGcYaqmZd4WF_owQFtA.png" data-width="1280" data-height="720"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*cmpPGcYaqmZd4WF_owQFtA.png" data-image-id="1*cmpPGcYaqmZd4WF_owQFtA.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Demeter is another support Demon, her skill Eleusinian Harvest heals the entire party to 130% of their max HP. This can help a lot in boss fights to help you live more hits. Note: Even though Demeter learns High Heal Pleroma, it doesn’t do anything for her Eleusinian Harvest skill.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Z15nK6sC26I" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h4 class="graf graf--h4">Alice</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*i5MSOtF0lbEDAD1SHRlhpg.png" data-image-id="1*i5MSOtF0lbEDAD1SHRlhpg.png" data-width="1280" data-height="720"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*i5MSOtF0lbEDAD1SHRlhpg.png" data-image-id="1*i5MSOtF0lbEDAD1SHRlhpg.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Alice isn’t the absolute best Dark-based Demon in the game, but you get her at Level 40 and she can hold her own for a long time.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Ur5VRG20pSk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h4 class="graf graf--h4">Metatron</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*cB7QFWe0RoU4zTmeXectrg.png" data-image-id="1*cB7QFWe0RoU4zTmeXectrg.png" data-width="1280" data-height="720"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*cB7QFWe0RoU4zTmeXectrg.png" data-image-id="1*cB7QFWe0RoU4zTmeXectrg.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Fire of Sinai offers the highest Almighty damage outside of MC. The downside being, it has random targeting and doesn’t have a secondary effect like Tandava.</p>
 <h4 class="graf graf--h4">Beelzebub</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*gv4QJZWdnEJplkLJWuJAWA.png" data-image-id="1*gv4QJZWdnEJplkLJWuJAWA.png" data-width="1280" data-height="720"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*gv4QJZWdnEJplkLJWuJAWA.png" data-image-id="1*gv4QJZWdnEJplkLJWuJAWA.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">One of the best Dark-based Demons, along with Mephisto, due to Death Flies.</p>
 <h4 class="graf graf--h4">Amon</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*mBdFqo9HnXiMa1ollch_PA.png" data-image-id="1*mBdFqo9HnXiMa1ollch_PA.png" data-width="1280" data-height="720"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*mBdFqo9HnXiMa1ollch_PA.png" data-image-id="1*mBdFqo9HnXiMa1ollch_PA.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Best Fire Demon due to Megido Flame.</p>
 <h4 class="graf graf--h4">Inanna</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*xUkdx2DUFoTaq9mlN8cfWw.png" data-image-id="1*xUkdx2DUFoTaq9mlN8cfWw.png" data-width="1280" data-height="720"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*xUkdx2DUFoTaq9mlN8cfWw.png" data-image-id="1*xUkdx2DUFoTaq9mlN8cfWw.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Inanna’s a Demon that’s locked behind the Chaos Route. She gets 4 strong moves in Fire, Ice, Elec and Wind, but I decided to focus her on the Ice skill. This due to the fact that there isn’t another Demon with a strong, unique Ice move. The best Ice option outside of Inanna is probably Gabriel, as she learns High Ice Pleroma and starts at +5 Ice Potential.</p>
 <h4 class="graf graf--h4">Zeus</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*Yi-i8s2L9O_fH_R4448-Ew.png" data-image-id="1*Yi-i8s2L9O_fH_R4448-Ew.png" data-width="1280" data-height="720"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*Yi-i8s2L9O_fH_R4448-Ew.png" data-image-id="1*Yi-i8s2L9O_fH_R4448-Ew.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Best Elec Demon due to Keraunos.</p>
 <h4 class="graf graf--h4">Fionn mac Cumhail</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*vkt6467I8w74eGrOaS3HJg.png" data-image-id="1*vkt6467I8w74eGrOaS3HJg.png" data-width="1280" data-height="720"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*vkt6467I8w74eGrOaS3HJg.png" data-image-id="1*vkt6467I8w74eGrOaS3HJg.png" data-width="1280" data-height="720" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Fionn’s unique move isn’t the absolute strongest, but it has a cool animation and I liked him throughout the story, so I decided to build him.</p>
 <hr></div>
 </div>
@@ -486,7 +486,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://bainz.ca/media/posts/10/1_L3lzT9PvgUQpj07ovbjBcg.webp" alt="" />
-                    As has been the case for recent Persona games, I wanted to make a post going over my builds for&hellip;
+                    As has been the case for recent Persona games, I wanted to&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -512,23 +512,23 @@
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Lucifer</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*0ORHZtBRlfnHdB5QkrmjGg.png" data-image-id="1*0ORHZtBRlfnHdB5QkrmjGg.png" data-width="1920" data-height="1080"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*0ORHZtBRlfnHdB5QkrmjGg.png" data-image-id="1*0ORHZtBRlfnHdB5QkrmjGg.png" data-width="1920" data-height="1080" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">It’s no surprise that the Persona that’s locked to NG+ is the strongest in the game. Lucifer’s exclusive skill Morning Star can be used to basically delete everything, and he also starts out with the best resistances as well. This build is centered around abusing technicals by applying Dizzy, then following up with Morning Star to break boss shields and do a lot of damage. Dizzy is the ailment used because bosses are susceptible to it, and if an opponent is inflicted, any attack on them becomes a technical. Only the Final Boss and the first phase of the Osaka Jail boss are immune to Dizzy, for every other one you can apply the ailment and start comboing them with Morning Star.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/sJReRSWaWuc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h4 class="graf graf--h4">Alice</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*8v8axXcW_acWEMvfcDHzOQ.png" data-image-id="1*8v8axXcW_acWEMvfcDHzOQ.png" data-width="1920" data-height="1080"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*8v8axXcW_acWEMvfcDHzOQ.png" data-image-id="1*8v8axXcW_acWEMvfcDHzOQ.png" data-width="1920" data-height="1080" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Alice is essentially the best trash mob clearer in the game. As long as a non-boss opponent doesn’t block/resist Curse, they can quickly be taken out with Die for Me. I also added Maeigaon and Curse Boost/Amp, just in case Insta-Kills don’t work in certain situations. I normally start battles with Alice equipped, as she clears dungeons the fastest, so I put Attack/Speed Master on her to always start out with those buffs, without having to continually swap Personas. Alice’s combo skills of Concentrate, Mamudoon and Megidolaon are also some of the best in general.</p>
 <h4 class="graf graf--h4">Metatron</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*7Dx4xlZrCcu0RTGdQXSseA.png" data-image-id="1*7Dx4xlZrCcu0RTGdQXSseA.png" data-width="1920" data-height="1080"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*7Dx4xlZrCcu0RTGdQXSseA.png" data-image-id="1*7Dx4xlZrCcu0RTGdQXSseA.png" data-width="1920" data-height="1080" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Metatron is the Bless-based counterpart to Alice, which is why I gave him Mahamaon, to deal with any enemies that block Curse insta-kills. Mahamaon has a lower chance for insta-kill than Die for Me, but it has a much wider range, making Metatron just as good for dungeon clearing. I kept Sword Dance and added Knockdown Style (Greatly decreases Down Gauge when landing a critical hit) just for when I felt like using the Physical skill instead of magic ones.</p>
 <h4 class="graf graf--h4">Yoshitsune</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*UHTmlwHyKGAKl5Qi4MlWRQ.png" data-image-id="1*UHTmlwHyKGAKl5Qi4MlWRQ.png" data-width="1920" data-height="1080"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*UHTmlwHyKGAKl5Qi4MlWRQ.png" data-image-id="1*UHTmlwHyKGAKl5Qi4MlWRQ.png" data-width="1920" data-height="1080" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">One of the strongest Personas from previous games returns, and is no disappointment. Yoshitsune’s Hassou Tobi continues to be a very good skill (though it’s not the strongest anymore, see the damage video I did below), and can be used to clear both mobs and bosses. This build is centered around applying Shock with Wild Thunder (most bosses are still susceptible to it), which allows for Phys skills like Hassou Tobi to become a technical, letting it easily break shields and hit for more damage. Yoshitsune can’t inherit Magic skills, so I had to use a skill card for Wild Thunder, but even Zio could be used in that slot as it’s being used for the ailment more so than damage. If an Elec skill card can’t be found, Freeze or Dizzy can work in place of Shock. Salvation is on here to quickly heal (Hassou Tobi costs 30% HP) without having to swap Personas, but it could be replaced by just Diarahan or the healing skill could be on a separate Persona.</p>
 <h4 class="graf graf--h4">Black Frost</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*xsRqXwqkvFfJ5ajcsuFmbA.png" data-image-id="1*xsRqXwqkvFfJ5ajcsuFmbA.png" data-width="1920" data-height="1080"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*xsRqXwqkvFfJ5ajcsuFmbA.png" data-image-id="1*xsRqXwqkvFfJ5ajcsuFmbA.png" data-width="1920" data-height="1080" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Black Frost’s build is based around the same idea as Yoshitsune, just with applying Freeze and following up with a strong Phys skill. Agneyastra is actually the highest damage Phys move in the game, above even Hassou Tobi (see damage vid below).</p>
 <h4 class="graf graf--h4">Arsene</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*VmRdtP6onir0eZg1gshj3w.png" data-image-id="1*VmRdtP6onir0eZg1gshj3w.png" data-width="1920" data-height="1080"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*VmRdtP6onir0eZg1gshj3w.png" data-image-id="1*VmRdtP6onir0eZg1gshj3w.png" data-width="1920" data-height="1080" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Have to keep the starter around and I stuck with the same build for Arsene as Lucifer, because Dizzy+Almighty can be used to beat almost every boss. This type of build is of course better on Lucifer, because Morning Star does about 50% more damage than Megidolaon, but I still tend to use Arsene more often. The remaining skills slots are taken up by Debilitate and Heat Riser, which are some of the best skills in the game and can be put on any Persona. Arsene actually has a full skill tree for once, learning Maeigaon and Riot Gun at later levels, so a Curse or Gun Build could also work for him.</p>
 </div>
 </div>
@@ -574,7 +574,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://bainz.ca/media/posts/9/1_wNXwfuY6KmfSixNUQL2okA.png" alt="" />
-                    Just as I did for P5R, I thought I’d make a post going over the builds/skill sets I had for&hellip;
+                    Just as I did for P5R, I thought I’d make a post&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -601,32 +601,32 @@
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Yosuke</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*YUFh-9cHFuGPj1hZYhwhHg.png" data-image-id="1*YUFh-9cHFuGPj1hZYhwhHg.png" data-width="1378" data-height="773"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*YUFh-9cHFuGPj1hZYhwhHg.png" data-image-id="1*YUFh-9cHFuGPj1hZYhwhHg.png" data-width="1378" data-height="773" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Compared to most of the other members, Yosuke is well balanced in both Phys and Magic. His supports of Masukukaja/Youthful Wind and Dekaja can prove useful at multiple points, especially against Golden Hands, who like to boost their evasion. The lack of Power/Mind Charge puts him a bit below the other members in boss fights, but he’s still solid overall.</p>
 <p class="graf graf--p">S. Link Skills: Trafuri, Dekaja, Auto-Sukukaja, Diarama, Evade Elec</p>
 <p class="graf graf--p">Bike Skills: Confuse Boost, Megido, Green Wall, Makara Break, Diarahan</p>
 <h4 class="graf graf--h4">Chie</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*Ux3kGcVRtF4aZDfw8g3a7w.png" data-image-id="1*Ux3kGcVRtF4aZDfw8g3a7w.png" data-width="1378" data-height="773"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*Ux3kGcVRtF4aZDfw8g3a7w.png" data-image-id="1*Ux3kGcVRtF4aZDfw8g3a7w.png" data-width="1378" data-height="773" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">For Chie, I went strictly with Phys skills for her, as the best Ice move she learns normally is Bufula and she only gets Ice Boost (no Amp). After 5 Bike Rides, she does learn Bufudyne, but I didn’t think it was worth it (at least on a 1st playthrough). Bufula could be kept instead of High Counter here. So I stuck with God’s Hand/Agneyastra, and her critical buffing skills of Revolution and Apt Pupil. Dragon Hustle (party Heat Riser) is a great 3rd tier skill, despite it costing 150 SP. Due to Chie’s low SP pool, it’d prob be worth equipping the Chakra Ring (halves SP cost of skills, can be found after beating the 6th Dungeon optional boss) when using that move.</p>
 <p class="graf graf--p">S. Link Skills: Rebellion, Ice Boost, Revolution, Bufula, Evade Fire</p>
 <p class="graf graf--p">Bike Skills: Hama, Mind Slice, Hamaon, Tetra Break, Bufudyne</p>
 <h4 class="graf graf--h4">Yukiko</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*3Dp3g-bun8Jf4Os9jHwaZQ.png" data-image-id="1*3Dp3g-bun8Jf4Os9jHwaZQ.png" data-width="1378" data-height="773"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*3Dp3g-bun8Jf4Os9jHwaZQ.png" data-image-id="1*3Dp3g-bun8Jf4Os9jHwaZQ.png" data-width="1378" data-height="773" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">As these builds are from my first playthrough, I didn’t have the chance to take Yukiko on 5 Bike rides, but Mind Charge is definitely worth doing that (it would replace Agidyne here). With Burning Petals (Severe Fire damage to all), Yukiko can actually come close to Yu in terms of magic damage. She’s also a great healer to have in the party, and prior to learning Mediarahan/Salvation, Divine Grace and Amrita are good skills to keep on her.</p>
 <p class="graf graf--p">S. Link Skills: Mudo, Divine Grace, Amrita, Mudoon, Evade Ice</p>
 <p class="graf graf--p">Bike Skills: Valiant Dance, Matarunda, Red Wall, Spirit Drain, Mind Charge</p>
 <h4 class="graf graf--h4">Kanji</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*8mnxUAnz23GnIZgm5rxWMg.png" data-image-id="1*8mnxUAnz23GnIZgm5rxWMg.png" data-width="1378" data-height="773"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*8mnxUAnz23GnIZgm5rxWMg.png" data-image-id="1*8mnxUAnz23GnIZgm5rxWMg.png" data-width="1378" data-height="773" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Kanji just hits hard. Even though he only learns single-target Phys skills by level up, I used him more than Chie, as he’s stronger and bosses tend to only require single-target anyway (though Chie is good for dungeons because she gets Apt Pupil). Given that Kanji favors Phys skills, Regenerate 3 was chosen over Elec Boost. Before learning The Man’s Way (Chance of causing Down and Dizzy to all), I kept Masukunda for the whole time prior.</p>
 <p class="graf graf--p">S. Link Skills: Dizzy Boost, Masukunda, Power Charge, Regenerate 3, Evade Wind</p>
 <p class="graf graf--p">Bike Skills: Media, Atom Smasher, Blue Wall, Fast Heal, Mediarama</p>
 <h4 class="graf graf--h4">Teddie</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*yZ6lx1ddMH2c0O9869h6qQ.png" data-image-id="1*yZ6lx1ddMH2c0O9869h6qQ.png" data-width="1378" data-height="773"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*yZ6lx1ddMH2c0O9869h6qQ.png" data-image-id="1*yZ6lx1ddMH2c0O9869h6qQ.png" data-width="1378" data-height="773" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Teddie is the second healer of the group and he gets the Ice skills that Chie doesn’t. I tended to use Yukiko over Teddie for healing, because Yukiko learns Divine Grace naturally, but an accessory named Blessed Hands (from Tanaka’s Amazing Commodities) can be equipped for Teddie to have Divine Grace as well. Despite being a bit overshadowed by Yukiko, having Teddie in the same party as Yukiko can let her focus on attacking instead of healing, leaving Teddie to be the heal/support member, which he isn’t that bad at. Kamui Miracle, Teddie’s 3rd Tier skill, can replace one of these moves (if you like RNG). One skill not on here is Marakunda (all enemy defense down), I replaced it due to MC having Debilitate later on, but prior to that it’s a very good move to keep. Matarukaja can also be kept if you’re not using Kanji.</p>
 <p class="graf graf--p">S. Link Skills: Auto-Rakukaja, Recarm, Marakunda, Samarecarm, Evade Elec</p>
 <p class="graf graf--p">Bike Skills: Dekunda, Life Drain, Mustard Bomb, White Wall, Evade Physical</p>
 <h4 class="graf graf--h4">Naoto</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*CODN8-byTb3NZGW8fCrl_Q.png" data-image-id="1*CODN8-byTb3NZGW8fCrl_Q.png" data-width="1378" data-height="773"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*CODN8-byTb3NZGW8fCrl_Q.png" data-image-id="1*CODN8-byTb3NZGW8fCrl_Q.png" data-width="1378" data-height="773" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Naoto’s really a character that gets too many good skills. She gets the 4 high tier Elementals, both multi-target Insta-Kills, Megidolaon, Vorpal Blade/Myriad Arrows, Tetrakarn/Makarakarn and even Angelic Grace. With the number of skills she learns, I don’t think there’s an ‘optimal’ Naoto build, it kinda comes down to personal preference.</p>
 <p class="graf graf--p">I went with Mahamaon and Mamudoon (along with Hama/Mudo Boost) for clearing mobs, and Mind Charge+Megidolaon for boss fights. I preferred using the insta-kill moves with Naoto, but keeping the elemental skills isn’t bad either. Shield of Justice (Shields the party from all damage once) costs 160 SP and is too niche to be used often outside of Super Boss fights, so it could be replaced with something else (I had Invigorate 3 prior).</p>
 <p class="graf graf--p">S. Link Skills: Invigorate 1, Mind Charge, Invigorate 2, Heat Riser, Invigorate 3</p>
@@ -651,7 +651,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://bainz.ca/media/posts/8/1_cz97DqG8yiPh2G2k3lz-rQ.png" alt="" />
-                    With Persona 4 Golden being released on Steam/PC, I thought it’d make sense to make two posts similar to my&hellip;
+                    With Persona 4 Golden being released on Steam/PC, I thought it’d make&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -678,7 +678,7 @@
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Yoshitsune</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*y2Ap-9T2Qr5VtmR4abharw.png" data-image-id="1*y2Ap-9T2Qr5VtmR4abharw.png" data-width="1378" data-height="773"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*y2Ap-9T2Qr5VtmR4abharw.png" data-image-id="1*y2Ap-9T2Qr5VtmR4abharw.png" data-width="1378" data-height="773" data-is-external-image="true"></figure></figure>
 <figure class="graf graf--figure graf--iframe">
 <div class="aspectRatioPlaceholder is-locked">
 <div>
@@ -688,14 +688,14 @@
 </div>
 </figure>
 <h4 class="graf graf--h4">Trumpeter</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*CYJQFO74W8YimYbErrq7vQ.png" data-image-id="1*CYJQFO74W8YimYbErrq7vQ.png" data-width="1378" data-height="773"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*CYJQFO74W8YimYbErrq7vQ.png" data-image-id="1*CYJQFO74W8YimYbErrq7vQ.png" data-width="1378" data-height="773" data-is-external-image="true"></figure></figure>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/BsQOmb8zoC0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Trumpeter naturally learns Debilitate and Heat Riser, and Rank 10 of Margaret’s S. Link requires showing her a Trumpeter with Mind Charge. Given this, he’s basically the de facto Support Persona in P4G. It helps that you only need 3 skills to make him invincible to everything but Almighty.</p>
 <h4 class="graf graf--h4">Helel</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*uYq-jzi-CWbrDwkwr3vMQA.png" data-image-id="1*uYq-jzi-CWbrDwkwr3vMQA.png" data-width="1378" data-height="773"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*uYq-jzi-CWbrDwkwr3vMQA.png" data-image-id="1*uYq-jzi-CWbrDwkwr3vMQA.png" data-width="1378" data-height="773" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Morning Star is the best Almighty move and exclusive to Helel. Almighty magic isn’t as strong as other elements due to no Boost/Amp in P4G, but in exchange it can never be blocked/resisted.</p>
 <h4 class="graf graf--h4">Izanagi</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*Q8SacHHgmx2b2wF4ApjJcg.png" data-image-id="1*Q8SacHHgmx2b2wF4ApjJcg.png" data-width="1378" data-height="773"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*Q8SacHHgmx2b2wF4ApjJcg.png" data-image-id="1*Q8SacHHgmx2b2wF4ApjJcg.png" data-width="1378" data-height="773" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">As with other Persona games, I like keeping the starter around to the end. For Izanagi, I went with Maziodyne and Primal Force as the skills. Maziodyne cause Electric is Izanagi’s thing, and Primal Force cause even though it’s weaker than Hassou Tobi, it has a much higher crit rate.</p>
 </div>
 </div>
@@ -732,7 +732,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://bainz.ca/media/posts/7/maxresdefault-16.jpg" alt="" />
-                    Note: Third Semester spoilers, of course. Lavenza was added as a new Super Boss in Persona 5 Royal, available during&hellip;
+                    Note: Third Semester spoilers, of course. Lavenza was added as a new&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -780,11 +780,11 @@
 <li class="graf graf--li">Lavenza is neutral to Wind/Elec/Psy after using Atavaka, and Wind/Ice/Nuke after using Thor</li>
 <li class="graf graf--li">After 5 party turns, Lavenza will use Concentrate + Megidolaon, which is a one-shot to everyone no matter what. But, if Joker has a Persona with Enduring Soul equipped, he’ll live and restore all HP (as long as Enduring Soul wasn’t used up prior to this point).</li>
 </ul>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*muWZtwaI2tbO_c53nLKlJQ.png" data-image-id="1*muWZtwaI2tbO_c53nLKlJQ.png" data-width="1440" data-height="809"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*muWZtwaI2tbO_c53nLKlJQ.png" data-image-id="1*muWZtwaI2tbO_c53nLKlJQ.png" data-width="1440" data-height="809" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">The party I used for most of this fight was Makoto, Haru and Sumire. Makoto because you need a healer, and Makoto’s endgame stats tend to be a lot higher than Morgana’s due to her ultimate gun that gives +11 All Stats. Ryuji could be swapped in as the healer if you have sufficient Somas/Bead Chains or the Salvation Crown, as his Tier 3 skill Fighting Spirit can benefit Haru/Sumire.</p>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*_KxPpk0P3CbGKa409IdBYw.png" data-image-id="1*_KxPpk0P3CbGKa409IdBYw.png" data-width="1440" data-height="808"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*_KxPpk0P3CbGKa409IdBYw.png" data-image-id="1*_KxPpk0P3CbGKa409IdBYw.png" data-width="1440" data-height="808" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Haru is in the party because she can land technicals off nearly all ailments with Psiodyne, land criticals using One-Shot Kill, her trait lowers ailment susceptibility by 50% and her tier 3 skill Life Wall can be useful during the last phase. Sumire can raise the critical rate of the whole party and land criticals with the most consistency due to Sword Dance and Apt Pupil. Sumire’s trait Veil of Midnight also has a chance to prevent allies from being downed when their weaknesses are hit. I switched Yusuke in for Makoto during Phase 4, because his trait helps the party avoid Lavenza’s chainsaw attacks, but it’s def not 100% necessary. This is the just the party I prefer using, not necessarily the most ‘optimal’ one. Accessories: Apt Pupil for Haru (Advanced Home Run Mini-Game or Itemize Tsukiyomi), Orichalcum R for Sumire (Itemize Orichalcum), Salvation Crown for Makoto (Tanaka’s Shady Commodities).</p>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*NMqY9HDIx0JhiSpbKYCq8w.png" data-image-id="1*NMqY9HDIx0JhiSpbKYCq8w.png" data-width="1440" data-height="809"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*NMqY9HDIx0JhiSpbKYCq8w.png" data-image-id="1*NMqY9HDIx0JhiSpbKYCq8w.png" data-width="1440" data-height="809" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">The basic strategy was Concentrating with Joker first, Makoto could heal/support, then Haru and Sumire would go for crits with One-Shot Kill and Sword Dance, Baton Passing to Joker for the big damage hit. You don’t need max stats on Joker’s Personas btw, they just help in speeding things up.</p>
 <ul class="postList">
 <li class="graf graf--li">Phase 1, start with a Will of the Sword Persona equipped on Joker. Will of the Sword is bugged to give an Auto-Concentrate when you begin with it, and Dekaja can’t remove Concentrate. I had Jack Frost and Baal with Diamond Dust and Panta Rhei to deal damage. With Crits and Baton Passes (and good RNG), this phase can end in a couple turns.</li>
@@ -809,9 +809,9 @@
 <ul class="postList">
 <li class="graf graf--li">Debilitate/Dekaja, Debilitate/Heat Riser, Panta Rhei, Concentrate, Rebellion, Debilitate, Panta Rhei</li>
 </ul>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*6Pb80OtI6v7zeFP5YU3tDQ.png" data-image-id="1*6Pb80OtI6v7zeFP5YU3tDQ.png" data-width="1440" data-height="809"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*6Pb80OtI6v7zeFP5YU3tDQ.png" data-image-id="1*6Pb80OtI6v7zeFP5YU3tDQ.png" data-width="1440" data-height="809" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">That’ll get you to Phase 2, where you have to land a technical every turn. This is the part where it’s all luck based. Going into the fight, you need to have the Cocytus Ice gun equipped (from the Airsoft shop), because it will allow you to freeze Lavenza. You need to freeze her using one of your first 3 bullets, then technical using another bullet. This will count as your technical hit for the turn, and you’ll get a 1 More, where you should Concentrate using either the Persona you had equipped, the Ring of Greed accessory or a Star Onion. Then on the next turn, your goal is to crit Lavenza using a physical move that applies Sleep/Dizzy (Dream Needle, Dormin Rush, Sledgehammer, Flash Bomb). Dream Needle seems to be the best because it can be used in conjunction with Apt Pupil and Trigger Happy, plus it has a Medium chance of Sleep. Knocking her down here and applying the ailment will allow you to switch to the highest damaging Persona you have (namely Izanagi-no-Okami with Myriad Truths), and hit the technical while Lavenza is down. A Concentrated Myriad Truths here does over 11k damage, letting you entirely skip the whole Critical Hit Phase 3 of the fight. Putting Repel Fire on Izanagi-nO can be useful, because Lavenza will always use Blazing Hell after Phase 2 is done.</p>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*alkyxL_oO-7vWogw9_MKkA.png" data-image-id="1*alkyxL_oO-7vWogw9_MKkA.png" data-width="800" data-height="448"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*alkyxL_oO-7vWogw9_MKkA.png" data-image-id="1*alkyxL_oO-7vWogw9_MKkA.png" data-width="800" data-height="448" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Given the requirements of Phase 2, the solo success rate is not high. In my experience, you land a Freeze using your first 3 bullets about 50% of the time. And then getting the crit/ailment afterwards is like a… 20–30% chance. So it’s about a 1/8 chance you get past Phase 2 using this method.</p>
 <p class="graf graf--p">Once you finish Phase 2 and skip Phase 3, Phase 4 is very simple. Just concentrate and Myriad Truths until it’s finished. Check out the posted video above if any of this didn’t make complete sense (I have all the Personas I used included at the end).</p>
 </div>
@@ -823,15 +823,15 @@
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Solo (No DLC)</h4>
 <p class="graf graf--p">Beating Lavenza Solo without DLC is similar to the previous section, but it requires many more attempts due to the amount of RNG present. <a href="https://www.youtube.com/channel/UClA2oEpslLQBih5kfsGCZaQ" data-href="https://www.youtube.com/channel/UClA2oEpslLQBih5kfsGCZaQ" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">Big credit to RobLu L</a> (<a href="https://youtu.be/8q66mIUz4D0" data-href="https://youtu.be/8q66mIUz4D0" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">check out their Lavenza vid</a>), I thought this fight was likely impossible without DLC, until I saw their strategy for Phase 3. If attempting solo, I’d recommend just using Izanagi-nO, cause it would save a lot of time. But if interested in knowing how the No DLC route works, read ahead.</p>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*kE9xy9_PgDZwTnc7qOuVHA.png" data-image-id="1*kE9xy9_PgDZwTnc7qOuVHA.png" data-width="1440" data-height="810"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*kE9xy9_PgDZwTnc7qOuVHA.png" data-image-id="1*kE9xy9_PgDZwTnc7qOuVHA.png" data-width="1440" data-height="810" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">In Phase 1, the pattern was Dekaja/Debilitate, Ice damage, Concentrate, Fire damage, Concentrate, Debilitate, Critical (One-Shot Kill/Sword Dance) and Wind damage. With Repels (from a Persona with Retaliating Body), this allows you to deal 5000+ damage and end the phase with Lavenza’s stats lowered. The Ice and Fire Personas were Jack Frost and Surt with Intense Focus (Mighty Gaze and Will of the Sword also work). The Wind Persona was Satanael, as he has max magic damage due to Tyrant’s Mind (not counting DLC obvs). The critical in this phase boosts on the damage on the Wind attack, letting the Phase end before Lavenza uses Dekunda.</p>
 <p class="graf graf--p">For Phase 2, having Lavenza’s stats lowered beforehand matters because she starts the phase with Heat Riser. If Lavenza’s evasion is raised here, it makes the following steps even less reliable, so that’s why it’s important. Next is the Freeze (or Shock) technical with the gun, and the Dream Needle critical/ailment. Once these are applied, Kohryu should be used for his trait Universal Law (Technical damage +50%), doing ~6.5k damage and ending the phase.</p>
 <p class="graf graf--p">In Phase 3, Lavenza can use Tetrakarn, making it impossible to progress alone. But you can force Lavenza to not use Tetrakarn by using Personas that are weak to her attacks (Psy/Nuke). Lavenza will go after Joker’s weaknesses instead of setting up Tetrakarn, and this is why Kohryu and Arahabaki are used. <a href="https://www.reddit.com/r/Persona5/comments/gktce4/testing_p5rs_battle_mechanics_part_2_evasion/" data-href="https://www.reddit.com/r/Persona5/comments/gktce4/testing_p5rs_battle_mechanics_part_2_evasion/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">Ali Dance and Angelic Grace don’t stack</a> so using Evade skills, with Enduring Soul, is the best bet on these two.</p>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*DN3d-lBRXtYJFRjFZ0JQGg.png" data-image-id="1*DN3d-lBRXtYJFRjFZ0JQGg.png" data-width="1440" data-height="809"></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*DN3d-lBRXtYJFRjFZ0JQGg.png" data-image-id="1*DN3d-lBRXtYJFRjFZ0JQGg.png" data-width="1440" data-height="809" data-is-external-image="true"></figure>
 <figcaption class="imageCaption">One-Shot Kill with Gun Boost/Amp and Trigger Happy can also be used here</figcaption>
 </figure>
 <p class="graf graf--p">As Arahabaki was the Critical dealing Persona, I put Vitality of the Tree (Allows use of ambushed skills normally) and Adverse Resolve (Critical rate up when ambushed) on him. <a href="https://www.reddit.com/r/Persona5/comments/gkthop/testing_p5rs_battle_mechanics_part_3_critical_hits/" data-href="https://www.reddit.com/r/Persona5/comments/gkthop/testing_p5rs_battle_mechanics_part_3_critical_hits/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">Based on this post by bryanktr</a>, Adverse Resolve does work with Vitality of Tree (although other passives like Last Stand don’t). That’s why Vitality of the Tree was on the critical-hit Personas (Attis, Rangda, Arahabaki). I used Sword Dance instead of One-Shot Kill because it allowed for more space for passives like Regenerate 3 and Evade Psy/Nuke. Even with Apt Pupil and Adverse Resolve, a critical hit cap of 60% exists in P5R, so Undying Fury (Phys skills +30%) could be used instead of Vitality of the Tree. This Phase requires 2–3 crits, depending on if Futaba buffs your attack or if you dodge Lavenza’s moves (which prevents her from using Dekunda). Debilitate/Heat Riser and Hassou Tobi are the best moves after getting a critical.</p>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*vz3Dwv_KJeriuo050OlwTw.png" data-image-id="1*vz3Dwv_KJeriuo050OlwTw.png" data-width="1440" data-height="810"></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*vz3Dwv_KJeriuo050OlwTw.png" data-image-id="1*vz3Dwv_KJeriuo050OlwTw.png" data-width="1440" data-height="810" data-is-external-image="true"></figure>
 <figcaption class="imageCaption">Endure and Enduring Soul work separately, so Endure can be used for this Persona (you don’t need HP in Phase 4)</figcaption>
 </figure>
 <p class="graf graf--p">Phase 4 is the simplest, just equip a Repel All Persona with Retaliating Body (Gun/Fire/Elec can be Drain/Null instead of Repel bc Lavenza blocks those) and lower defense. Repelling everything does more damage than attacking in this part. One of either Endure, Enduring Soul or Futaba’s Final Guard needs to last until this point to make it past Lavenza’s Megidolaon with Lucifer. If you make it this far, congrats! This is definitely the hardest challenge fight in Persona 5, and one of the hardest in the series for sure. All the Personas I used are at the end of the video above as usual.</p>
@@ -866,7 +866,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://bainz.ca/media/posts/6/ksJmxHAF3c4PV9N7MRvLCeWb.png" alt="" />
-                    One of the things Persona 5 Royal added compared to the original P5, is the degree to which you can&hellip;
+                    One of the things Persona 5 Royal added compared to the original&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -893,7 +893,7 @@
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Morgana</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*jrSaSdxaJFVo75G-JQFntA.png" data-image-id="1*jrSaSdxaJFVo75G-JQFntA.png" data-width="1440" data-height="808"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*jrSaSdxaJFVo75G-JQFntA.png" data-image-id="1*jrSaSdxaJFVo75G-JQFntA.png" data-width="1440" data-height="808" data-is-external-image="true"></figure></figure>
 <ul class="postList">
 <li class="graf graf--li">Trait: Majestic Presence — Doubles effectiveness and decreases costs of Recovery skills for all allies</li>
 <li class="graf graf--li">Accessory: Rosary of Purity — Holy Benevolence: Revive multiple fallen allies to max HP (Itemize Maria during an alarm)</li>
@@ -901,21 +901,21 @@
 <p class="graf graf--p">Morgana’s trait, Proud Presence, doubles the effectiveness of party healing skills, making him the best healer until you get into the mid-to-late game. When Makoto eventually learns Marakukaja around the time of Palace 5/6, I tend to not use Morgana nearly as much. Though, Morgana is able to learn Marakukaja from the Jazz Club (on 7/17 and 10/16), so he doesn’t have to stay as frail as he was in Vanilla P5.</p>
 <p class="graf graf--p">If you want Morgana to be the best healer he can be, the Rosary of Purity accessory you get from itemizing Maria lets you revive multiple allies. If you mainly use Morgana to heal the party in between battles via the menu, the Black Headband R increases max SP by 30%.</p>
 <h4 class="graf graf--h4">Ryuji</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*Lc_wec14R7DtEm_mmXBz_A.png" data-image-id="1*Lc_wec14R7DtEm_mmXBz_A.png" data-width="1440" data-height="810"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*Lc_wec14R7DtEm_mmXBz_A.png" data-image-id="1*Lc_wec14R7DtEm_mmXBz_A.png" data-width="1440" data-height="810" data-is-external-image="true"></figure></figure>
 <ul class="postList">
 <li class="graf graf--li">Trait: Eccentric Temper — Low chance to strengthen Phys attacks by 80% for all allies</li>
 <li class="graf graf--li">Accessory: Bravery Sash (Arms Master, P4 Protagonist fight DLC)</li>
 </ul>
 <p class="graf graf--p">Ryuji’s probably the character that needs the least amount of work to be good, he’s very much unchanged from Vanilla P5: he hits hard, is tanky and is solid pretty much from beginning to end. Ryuji gets Elec Boost from his weapon Imprisoned Mjolnir, so that’s why it’s not on here. Besides the Arms Master accessory, a good one to equip could be the Orichalcum R, providing +7 All Stats.</p>
 <h4 class="graf graf--h4">Ann</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*iF1e7Jqf6dsZSm4wcGgw7g.png" data-image-id="1*iF1e7Jqf6dsZSm4wcGgw7g.png" data-width="1440" data-height="810"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*iF1e7Jqf6dsZSm4wcGgw7g.png" data-image-id="1*iF1e7Jqf6dsZSm4wcGgw7g.png" data-width="1440" data-height="810" data-is-external-image="true"></figure></figure>
 <ul class="postList">
 <li class="graf graf--li">Trait: Pinnacle of Magic — Low chance to halve attack spell costs for all allies</li>
 <li class="graf graf--li">Accessory: SP Adhesive 3</li>
 </ul>
 <p class="graf graf--p">Ann is very much similar to Ryuji, she is solid throughout most of the game, specializing in Magic instead of Physical skills. Although I didn’t keep her sleep skills of Dormina/Lullaby on the final build, I’d recommend keeping them on her for most of your playthrough, as Sleep allows for any type of attack to become a technical. Otherwise, I put Spell Master on her so she could use party-wide Concentrate as much as possible.</p>
 <h4 class="graf graf--h4">Yusuke</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*OBvdyBc2ovAOPTwSv_jotg.png" data-image-id="1*OBvdyBc2ovAOPTwSv_jotg.png" data-width="1440" data-height="810"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*OBvdyBc2ovAOPTwSv_jotg.png" data-image-id="1*OBvdyBc2ovAOPTwSv_jotg.png" data-width="1440" data-height="810" data-is-external-image="true"></figure></figure>
 <ul class="postList">
 <li class="graf graf--li">Trait: Unparalleled Eyes — Greatly raises evasion rate against Phys attacks for all allies</li>
 <li class="graf graf--li">Accessory: Black Moon R — Apt Pupil, Str +8 (Tsukiyomi, Alarm)</li>
@@ -923,7 +923,7 @@
 <p class="graf graf--p">Yusuke’s the character I most wanted to upgrade using the new skills from the Jazz Club. In Vanilla P5, it was often difficult to justify using Yusuke over Ryuji, because Ryuji got Matarukaja and Charge, meaning Yusuke’s damage output was considerably lower at the endgame. Another problem was, Yusuke is best as a Physical attacker, but his lower HP and Endurance stat made it so if he didn’t dodge an attack, you might have had to spend multiple turns reviving him.</p>
 <p class="graf graf--p">Luckily in Royal, he can learn Charge, which mitigates his prior damage problems, and Arms Master, which makes the HP loss from his Phys skills much more manageable. And now, due to Ryuji’s trait having a chance to raise all ally Phys attacks, Yusuke and Ryuji no longer really compete with one another, but are best used on the same team.</p>
 <h4 class="graf graf--h4">Makoto</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*yQ9Jy7on9BO1BArIaTbJ0Q.png" data-image-id="1*yQ9Jy7on9BO1BArIaTbJ0Q.png" data-width="1440" data-height="809"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*yQ9Jy7on9BO1BArIaTbJ0Q.png" data-image-id="1*yQ9Jy7on9BO1BArIaTbJ0Q.png" data-width="1440" data-height="809" data-is-external-image="true"></figure></figure>
 <ul class="postList">
 <li class="graf graf--li">Trait: Gaia Blessing — Increases chance of inflicting Burn, Freeze, and Shock by 50% for all allies</li>
 <li class="graf graf--li">Accessory: Magic Masangi (Spell Master, P3 Protagonist fight DLC)</li>
@@ -931,14 +931,14 @@
 </ul>
 <p class="graf graf--p">Makoto’s great because she can heal, play support and isn’t lacking in damage output. Once she learns Mediarama and Marakukaja, I tend to use her as the healer instead of Morgana. Her original trait Gaia Pact increases the chances of Burn/Freeze/Shock, so she synergizes with any combination of Ann/Yusuke/Ryuji, and can hit Nuke technicals off those statused enemies. Not to mention, her Ultimate gun gives her +11 all stats, making her overall endgame stats quite a bit higher than other party members. I had her learn Debilitate from the Jazz Club on 12/11.</p>
 <h4 class="graf graf--h4">Haru</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*0qPuwE9Z3FKD87q9PDHzTg.png" data-image-id="1*0qPuwE9Z3FKD87q9PDHzTg.png" data-width="1440" data-height="810"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*0qPuwE9Z3FKD87q9PDHzTg.png" data-image-id="1*0qPuwE9Z3FKD87q9PDHzTg.png" data-width="1440" data-height="810" data-is-external-image="true"></figure></figure>
 <ul class="postList">
 <li class="graf graf--li">Trait: Cool Customer — Reduces ailment susceptibility by 50% for all allies</li>
 <li class="graf graf--li">Accessory: Magic Masangi (Spell Master)</li>
 <li class="graf graf--li">Other Accessories: Black Moon R (Apt Pupil)</li>
 </ul>
 <p class="graf graf--p">Haru is definitely a tough character to build for. Given she learns so many skills, you probably have to decide between Gun or Psy for her at some point. In Vanilla P5, I went with the Gun skills, because of their good damage and high crit-rates. A gun Haru build is still good in P5R, but I think the Psy one might actually be better this time around. The reason for this being two things: the new Technical Damage ranks and the Chaînés Hook ability you get from the Faith Confidant Rank 4.</p>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*HfAGhlu3j5fWRKEbw4PKjg.png" data-image-id="1*HfAGhlu3j5fWRKEbw4PKjg.png" data-width="585" data-height="254"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*HfAGhlu3j5fWRKEbw4PKjg.png" data-image-id="1*HfAGhlu3j5fWRKEbw4PKjg.png" data-width="585" data-height="254" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Firstly, by going to the Billiards club in Kichijoji, you can <a href="https://www.thegamer.com/persona-5-royal-technical-rank-billiards-guide/" data-href="https://www.thegamer.com/persona-5-royal-technical-rank-billiards-guide/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">increase your party’s Technical Damage rank</a>. As you raise your rank, you increase the damage boost and chance of knockdown when landing a tech, all the way up to Rank 4, where tech attacks have a guaranteed chance of knockdown. This is relevant for Haru, because Psy skills are what allow you to land technicals on almost all ailment types, including Sleep, Dizzy, Rage, Fear, Forget, Confuse, Despair and Brainwash. Given the benefits from Tech Rank 4, Haru can deal a fair bit of damage and get lots of knockdowns during a Palace run, if you are consistently applying ailments.</p>
 <p class="graf graf--p">Secondly, the Chaînés Hook ability allows you to ambush enemies using your grappling hook. When these enemies are ambushed, there is a high chance of at least one enemy having the status ailment of Dizzy, Confuse or Fear. Given that you can use this all the time in Palaces instead of the normal ambush, it makes using Haru’s Psy skills even easier throughout the course of the game.</p>
 <p class="graf graf--p">Otherwise, I gave her Concentrate to keep her damage output respectable during boss fights, and kept One-Shot Kill just to use it with the Apt Pupil accessory at times. Makarakarn/Tetrakarn are useful to keep on Haru, but can be replicated by items you buy from Takemi. Amrita Shower can come in clutch, but it’s not as relevant late-game because you likely have access to Salvation.</p>
@@ -954,7 +954,7 @@
 <p class="graf graf--p">.</p>
 <p class="graf graf--p">.</p>
 <h4 class="graf graf--h4">Akechi</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*N0CbtjsrzIq7oC77v7z3gg.png" data-image-id="1*N0CbtjsrzIq7oC77v7z3gg.png" data-width="1440" data-height="808"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*N0CbtjsrzIq7oC77v7z3gg.png" data-image-id="1*N0CbtjsrzIq7oC77v7z3gg.png" data-width="1440" data-height="808" data-is-external-image="true"></figure></figure>
 <ul class="postList">
 <li class="graf graf--li">Trait: Ingenious Spirit — Chance to halve Support and Almighty skill costs for all allies</li>
 <li class="graf graf--li">Accessory: St. Hermelin Badge (Null Bless/Curse)</li>
@@ -963,7 +963,7 @@
 <p class="graf graf--p">Akechi’s trait Tactical Spirit has a chance to halve ally Support skill costs, and after some testing I did, the chance rate on it is about 60%. Due to his trait, you’re able to spam the Tier 3 skills like Fighting Spirit, High Energy, etc to a higher degree when he’s in your party. There aren’t a ton of opportunities where the reduced SP cost makes a big difference, but it’s a good bonus for just having him in the party.</p>
 <p class="graf graf--p">One last thing to know is that the Final Boss uses Bless skills, so equipping the St. Hermelin Badge or Ring of Vanity (which removes weaknesses) would help a lot there. Attack Master can be replaced with his Tier 3 skill Rebellion Blade, as Attack Master is redundant if Joker uses an Auto-Mataru Persona.</p>
 <h4 class="graf graf--h4">Kasumi</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*xVTu1sm5BxPTJfw9yLBT6w.png" data-image-id="1*xVTu1sm5BxPTJfw9yLBT6w.png" data-width="1438" data-height="718"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*xVTu1sm5BxPTJfw9yLBT6w.png" data-image-id="1*xVTu1sm5BxPTJfw9yLBT6w.png" data-width="1438" data-height="718" data-is-external-image="true"></figure></figure>
 <ul class="postList">
 <li class="graf graf--li">Trait: Veil of Sunrise — High chance to prevent down when weakness struck for all allies</li>
 <li class="graf graf--li">Accessory: Orichalcum R (Evade Phys, +7 All Stats)</li>
@@ -1063,7 +1063,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://bainz.ca/media/posts/5/1_5ibjn6hJiEJtJJoweRHk1g.webp" alt="" />
-                    Back when I finished Vanilla Persona 5, I made a post about my NG+ team. With recently being able to&hellip;
+                    Back when I finished Vanilla Persona 5, I made a post about&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -1090,18 +1090,18 @@
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Yoshitsune</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*11f7rk7zavMPzgO8j5EGsQ.png" data-image-id="1*11f7rk7zavMPzgO8j5EGsQ.png" data-width="1440" data-height="808"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*11f7rk7zavMPzgO8j5EGsQ.png" data-image-id="1*11f7rk7zavMPzgO8j5EGsQ.png" data-width="1440" data-height="808" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Yoshitsune is back, still as strong as ever. Hassou Tobi is a top 3 damaging skill in the game, alongside Myriad Truths and Shining Arrows, and now can even be boosted by traits. The best trait to have on Yoshitsune is Undying Fury, originally from Zaou-Gongen, which raises the damage of Phys skills by 30%.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/WUqPvRhI02U" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p class="graf graf--p">The only essential skills that are a must to have on Yoshitsune are Hassou Tobi and Arms Master. Otherwise, you can go with adding a bunch of Drain skills, making it so you only take damage from Gun and Almighty. Or, you can go with more utility moves like Apt Pupil, Regenerate 3, etc.</p>
 <h4 class="graf graf--h4">Satanael</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*Js2uPa8HwE8z3f56QJUs3g.png" data-image-id="1*Js2uPa8HwE8z3f56QJUs3g.png" data-width="1440" data-height="809"></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*Js2uPa8HwE8z3f56QJUs3g.png" data-image-id="1*Js2uPa8HwE8z3f56QJUs3g.png" data-width="1440" data-height="809" data-is-external-image="true"></figure>
 <figcaption class="imageCaption">Almighty Build</figcaption>
 </figure>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*-RWCLBa3nWwrCNcbo8R_ag.png" data-image-id="1*-RWCLBa3nWwrCNcbo8R_ag.png" data-width="1439" data-height="810"></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*-RWCLBa3nWwrCNcbo8R_ag.png" data-image-id="1*-RWCLBa3nWwrCNcbo8R_ag.png" data-width="1439" data-height="810" data-is-external-image="true"></figure>
 <figcaption class="imageCaption">Gun Build</figcaption>
 </figure>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*YvkVCEwd7L5pqcKT-jGx8g.png" data-image-id="1*YvkVCEwd7L5pqcKT-jGx8g.png" data-width="1440" data-height="810"></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*YvkVCEwd7L5pqcKT-jGx8g.png" data-image-id="1*YvkVCEwd7L5pqcKT-jGx8g.png" data-width="1440" data-height="810" data-is-external-image="true"></figure>
 <figcaption class="imageCaption">Elemental Build</figcaption>
 </figure>
 <p class="graf graf--p">The main thing to know about Satanael is that his original trait, Pagan Allure, doesn’t exceed the damage cap (see at 1:40 in the Satanael video). So, if you are planning to use him for Magic and want max damage, Mighty Gaze, Intense Focus or Will of the Sword are better (all are +20% and exceed the cap). While Satanael’s original trait doesn’t exceed the damage cap, his exclusive skill Tyrant’s Mind (1.25x boost to all attacks) can. <a href="https://medium.com/@bainz350/persona-5-royal-traits-faq-582a66c5c475" data-href="https://medium.com/@bainz350/persona-5-royal-traits-faq-582a66c5c475" class="markup--anchor markup--p-anchor" target="_blank" rel="noopener">Here’s a link to a Persona traits post if that was confusing.</a></p>
@@ -1109,20 +1109,20 @@
 <p class="graf graf--p">Given that info, there’s a number of different builds you could go for with Satanael. Excluding the new DLC, Satanael with Intense Focus or Will of the Sword and Black Viper provides the highest Almighty damage in the game.</p>
 <p class="graf graf--p">Or you could go for a Gun build, because with Will of the Sword and Tyrant’s Mind, it provides the highest Gun damage possible. Another option is putting multiple elements on Satanael and adding Magic Ability. Pagan Allure, Magic Ability and Tyrant’s Mind would then give 2.34x damage (1.5*1.25*1.25).</p>
 <h4 class="graf graf--h4">Arsene</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*yVNssJiMj47NXiaZ-vkZYg.png" data-image-id="1*yVNssJiMj47NXiaZ-vkZYg.png" data-width="1440" data-height="811"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*yVNssJiMj47NXiaZ-vkZYg.png" data-image-id="1*yVNssJiMj47NXiaZ-vkZYg.png" data-width="1440" data-height="811" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Have to keep the Starter around, and I wanted to replicate Arsene’s moveset from Persona Q2 and Persona 5 Scramble, being Curse and Gun-focused.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/FnQ-OaqMHdA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p class="graf graf--p">Here’s a video guide on building this type of Arsene. I also included a fusion path for an Almighty build with Megidolaon.</p>
 <h4 class="graf graf--h4">Raoul</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*SM5aXpUtdaeB0Q2sCRXTwg.png" data-image-id="1*SM5aXpUtdaeB0Q2sCRXTwg.png" data-width="1439" data-height="810"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*SM5aXpUtdaeB0Q2sCRXTwg.png" data-image-id="1*SM5aXpUtdaeB0Q2sCRXTwg.png" data-width="1439" data-height="810" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">At the start of the game, I knew I wanted to use Raoul for something, and I eventually landed on simply using him as more of a Support Persona. The Vitality of the Tree trait (originally from Attis) lets you use Thermopylae (full party Heat Riser) in normal conditions, while the other skill slots were filled with Charge, Concentrate, Debilitate and Raoul’s exclusive skill Phantom Show (high chance of Sleep to all foes). To get Vitality of the Tree on Raoul, re-fuse him by using Attis and Agathion. Orpheus’ Neo Cadenza (see below) is better than Thermopylae, but is only available through the paid DLC, while Vitality of the Tree+Thermopylae can be transferred to any Persona you want.</p>
 <h4 class="graf graf--h4">Maria</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*ufAD9dB66zTlM12VWjxBWA.png" data-image-id="1*ufAD9dB66zTlM12VWjxBWA.png" data-width="1440" data-height="810"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*ufAD9dB66zTlM12VWjxBWA.png" data-image-id="1*ufAD9dB66zTlM12VWjxBWA.png" data-width="1440" data-height="810" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Maria has two exclusive passives, one being Holy Whisper which restores 15% HP and 15 SP every turn, and the other being Holy Embrace which restores 25% HP every turn.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/SbsSsmlim-k" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p class="graf graf--p">If you transfer the Demon’s Bite trait from Ongyo-Ki, which doubles own HP recovery, you can recover 80% HP per turn with Maria equipped. By adding the Regenerate 2 and 3 passives, it becomes 100% per turn. Instead of Regenerate 2 and 3, I opted to go with other passives like Ali Dance, Enduring Soul and Drain Fire, because 80% HP per turn is really more than enough.</p>
 <h4 class="graf graf--h4">Izanagi-no-Okami</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*DFrkKNO9zgqt7CakpvIavA.png" data-image-id="1*DFrkKNO9zgqt7CakpvIavA.png" data-width="1440" data-height="810"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*DFrkKNO9zgqt7CakpvIavA.png" data-image-id="1*DFrkKNO9zgqt7CakpvIavA.png" data-width="1440" data-height="810" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">The strongest Persona available, for sure. Can one-shot the Reaper, one-shot most story bosses, even makes Super Bosses feel tame. Izanagi-nO has an exclusive trait called Country Maker, which increases Attack/Defense based on Inmate registry completion. With a full Persona compendium, Country Maker doubles your damage and halves damage taken.</p>
 <figure class="graf graf--figure graf--iframe">
 <div class="aspectRatioPlaceholder is-locked">
@@ -1133,7 +1133,7 @@
 </figure>
 <p class="graf graf--p">Myriad Truths (3 times Heavy Almighty damage to all foes) is already a strong move, but it can be boosted by Almighty Boost, Almighty Amp and Magic Ability, giving you a 2x multiplier on it. Then boosted again by Country Maker, giving you 4x. Needless to say, nothing much stands up to it. Atlus seems to love making DLC overpowered, but they <em class="markup--em markup--p-em">may</em> have gone a bit overboard here.</p>
 <h4 class="graf graf--h4">Orpheus</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*vWKAgUIBO0HUcB9jjJFUzQ.png" data-image-id="1*vWKAgUIBO0HUcB9jjJFUzQ.png" data-width="800" data-height="449"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*vWKAgUIBO0HUcB9jjJFUzQ.png" data-image-id="1*vWKAgUIBO0HUcB9jjJFUzQ.png" data-width="800" data-height="449" data-is-external-image="true"></figure></figure>
 <p class="graf graf--p">Orpheus’ exclusive skill Neo Cadenza heals 50% HP of the party, and also provides Heat Riser for the whole party, while only costing 24 SP.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/5qFQuvocoac" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p class="graf graf--p">If you pass down the Wealth of Lotus trait from Lakshmi, Neo Cadenza’s buffs will be extended by 2 turns. It also works with the 3 Auto skills, making them last 5 turns at the start of every battle. In the video to the left, I showed a fusion path for getting Wealth of Lotus on Orpheus, as well builds for Thanatos &amp; Messiah.</p>
@@ -1145,7 +1145,7 @@
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h4 class="graf graf--h4">Other great Personas:</h4>
-<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*xuSHWBxYCEx7FJjXID4bqw.png" data-image-id="1*xuSHWBxYCEx7FJjXID4bqw.png" data-width="700" data-height="394"></figure></figure>
+<figure class="graf graf--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*xuSHWBxYCEx7FJjXID4bqw.png" data-image-id="1*xuSHWBxYCEx7FJjXID4bqw.png" data-width="700" data-height="394" data-is-external-image="true"></figure></figure>
 <ul class="postList">
 <li class="graf graf--li"><strong class="markup--strong markup--li-strong">Kaguya</strong>: Shining Arrows is a top 3 damaging skill in the game, making her the 2nd best Magic Persona, only exceeded by Izanagi-nO. But Kaguya comes free with the Legacy P5 DLC, so she’s a great option if you don’t want to get the new DLC. Kaguya also gets a trait called Inviolable Beauty, which triples the damage of all Counter/Repel skills.</li>
 </ul>
